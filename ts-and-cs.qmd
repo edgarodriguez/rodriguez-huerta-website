@@ -1,0 +1,68 @@
+---
+title: "Terms and conditions"
+page-layout: article
+sidebar: false
+toc: true
+title-block-banner: true
+---
+## Legal disclaimer
+Statements of fact and opinion published on this website are those of the respective authors and contributors and not necessarily those of Real World Data Science (RWDS), its editors, the Royal Statistical Society (RSS), or other partners and funders. 
+
+RWDS has prepared the content of this website responsibly and carefully. However, RWDS, its editors, the RSS, or other partners and funders disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website or on other linked websites or on any subsequent links. This includes, but is not by way of limitation: 
+
+- any implied warranties of merchantability and fitness for a particular purpose. 
+
+- any liability for damage to your computer hardware, data, information, materials and business resulting from the information or the lack of information available. 
+
+- any errors, omissions, or inaccuracies in the information. 
+
+- any decision made or action taken or not taken in reliance upon the information. 
+
+RWDS, its editors, the RSS, or other partners and funders make no warranty as to the content, accuracy, timeliness or completeness of the information or that the information may be relied upon for any reason and bear no responsibility for the accuracy, content or legality of any linked site or for that of any subsequent links. RWDS, its editors, the RSS, or other partners and funders make no warranty that the website service will be uninterrupted or error-free or that any defects can be corrected. 
+
+RWDS, its editors, the RSS, or other partners and funders shall not be liable for any losses or damages (including without limitation consequential loss or damage) whatsoever from the use of, or reliance on, the information in this website, or from the use of the internet generally. Links to other websites or the publication of advertisements do not constitute an endorsement or an approval by RWDS, its editors, the RSS, or other partners and funders. 
+
+These disclaimers and exclusions shall be governed by and construed in accordance with the laws of England and Wales under the exclusive jurisdiction of the courts of England and Wales. Those who choose to access this site from outside the United Kingdom are responsible for compliance with local laws if and to the extent local laws are applicable. 
+
+By using this site, you agree to these terms and conditions of use.   
+
+## What websites do we link to? 
+RWDS editors and contributors recommend external web links on the basis of their suitability and usefulness for our users. Selection and addition of links to our website is entirely a matter for RWDS and for RWDS alone. 
+
+It is not our policy to enter into agreements for reciprocal links. 
+
+The inclusion of a link to an organisation's or individual's website does not constitute an endorsement or an approval by RWDS, its editors, the RSS, or other partners and funders of any product, service, policy or opinion of the organisation or individual. RWDS, its editors, the RSS, or other partners and funders are not responsible for the content of external websites. 
+
+## What websites will we not link to? 
+We will not link to websites that contain racist, sexual or misleading content; that promote violence; that are in breach of any UK law; which are otherwise offensive to individuals or to groups of people. 
+
+The decision of RWDS is final and no correspondence will be entered into. 
+
+If you wish to report a concern, please email [rwds@rss.org.uk](mailto:rwds@rss.org.uk).
+
+## Notice and Takedown policy
+If you are a rights holder and are concerned that you have found material on our site for which you have not given permission, or is not covered by a limitation or exception in national law, please contact us in writing stating the following:
+
+1. Your contact details.
+2. The full bibliographic details of the material.
+3. The exact and full url where you found the material.
+4. Proof that you are the rights holder and a statement that, under penalty of perjury, you are the rights holder or are an authorised representative.
+
+**Contact details:**\
+Notice and Takedown,\
+Licensing,\
+12 Errol Street,\
+London EC1Y 8LX\
+web@rss.org.uk
+
+Upon receipt of notification, the 'Notice and Takedown' procedure is then invoked as follows:
+
+1. We will acknowledge receipt of your complaint by email or letter and will make an initial assessment of the validity and plausibility of the complaint.
+2. Upon receipt of a valid complaint the material will be temporarily removed from our website pending an agreed solution.
+3. We will contact the contributor who deposited the material, if relevant. The contributor will be notified that the material is subject to a complaint, under what allegations, and will be encouraged to assuage the complaints concerned.
+4. The complainant and the contributor will be encouraged to resolve the issue swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
+    - The material is replaced on our website unchanged.
+    - The material is replaced on our website with changes.
+    - The material is permanently removed from our website.
+
+If the contributor and the complainant are unable to agree a solution, the material will remain unavailable through the website until a time when a resolution has been reached.

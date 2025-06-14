@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  favicon: "content/img/clidewo-favicon.png"
+  site-url: https://clidewo.com
+  repo-url: https://github.com/edgarodriguez/quarto-web-clidewo
+  open-graph: true
+  draft-mode: visible
+  navbar:
+    pinned: true
+    logo: "content/img/logo_yellow3.png"
+    background: primary
+    right:
+      - href: publications.qmd
+      - text: Resources #change html index.pt to Recursos"
+        menu:
+          - href: resources.qmd
+          - href: datavis.qmd  
+          - href: literature-tools.qmd        
+          - href: other-resources.qmd                   
+      - href: blog.qmd 
+      - href: news.qmd
+      - href: contact.qmd      
+  page-footer:
+    background: black
+    left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
+    right: Multi-lenguage thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
+  google-analytics: "G-RG1R3XP26Q"
+#  cookie-consent:
+#    type: express
+#    style: headline
+#    palette: dark
+
+format:
+  html:
+    theme: lux
+    css: clidewo_theme.css
+    toc: true
+    code-overflow: scroll
+babelquarto:
+  languagecodes:
+  - name: pt
+    text: "Português"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['pt']
+title-pt: 
+description-pt: CRVA
+author-pt: Edgar Rodriguez Huerta
+lang: en
+
+# Override language specific fields here
+babelquarto-pt:
+  format:
+    html:
+      comments:
+        giscus:
+          language: pt
+  website:
+    navbar:
+      right:
+        - href: talks.qmd
+          text: Platicas

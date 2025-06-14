@@ -1,0 +1,60 @@
+---
+project:
+  type: website
+
+website:
+  title: "My Lumo Site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "floating"
+    contents:
+      - section: "Main"
+        contents:
+          - index.qmd
+          - about.qmd
+
+format:
+  html:
+    theme: lumo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    code-fold: true
+    code-tools: true
+    df-print: paged
+
+execute:
+  freeze: auto  # Only re-render modified documents
+
+
+---
+
+
+
+## top1
+
+Check examples of best practices
+For Instance, babel wesinte
+
+
+
+
+::: {.column-margin}
+
+Btw, you can learn how to master Quarto thanks to my online course: [Productive R Workflow](https://www.productive-r-workflow.com)
+
+:::
+
+
+This document aims at showcasing how a quarto document made with the `lumo` format looks like.
+
+
+## Documentation
+
+The documentation for this quarto custom format is available [here](https://www.productive-r-workflow.com/r/bonus/lumo-quarto-template)
+
+

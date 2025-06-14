@@ -1,0 +1,291 @@
+---
+pagetitle: "Real World Data Science"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+description: | 
+  A showcase for data science in action, brought to you by the Royal Statistical Society in partnership with the American Statistical Association.
+image: images/rwds-logo-150px.png
+listing:
+  - id: latest-content
+    contents: 
+    - /case-studies
+    - /foundation-frontiers
+    - /people-paths
+    - /the-pulse
+    - "!index.qmd"
+    - "!development-plan-2.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: case-studies
+    contents: 
+    - /case-studies
+    - "!index.qmd"
+    - "!what-is-CDE-2.qmd"
+    - "!policy-problem.qmd"
+    - "!use-case-2.qmd"
+    - "!development-plan-2.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: foundation-frontiers
+    contents: 
+    - /foundation-frontiers
+    - "!index.qmd"
+    - "!machine-learning-nobel-prizes.qmd"
+    - "!digital-gender-gap.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: people-paths
+    contents: 
+    - /people-paths
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: the-pulse
+    contents: 
+    - /the-pulse
+    - "!index.qmd"
+    - "!editors-note.qmd"
+    - "!RWDS-journal.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  # - id: editors-blog
+  #   contents: 
+  #   - /the-pulse/editors-blog
+  #   - "!index.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+  # - id: datasciencebites
+  #   contents: 
+  #   - /foundation-frontiers/datasciencebites
+  #   - "!index.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+  # - id: interviews
+  #   contents: 
+  #   - /the-pulse/interviews
+  #   - "!index.qmd"
+  #   - "!politics-of-modelling.qmd"
+  #   sort: "date desc"
+  #   type: grid
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   max-items: 3
+  #   feed: false
+
+toc: false
+---
+::: {.content-container}
+::: {.top-story .purple-background}
+<a href="/case-studies/posts/2024/11/22/development-plan-2.qmd">
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text}
+## Defining Purposes and Uses to Support the Development of Statistical Products in a 21^st^ Century Census Curated Data Enterprise Environment
+Learn about researchers’ plans to develop the Curated Data Enterprise through a use case research program.  
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-img}
+![](case-studies/posts/2024/11/22/images/figure-1.png)
+:::
+:::
+
+</a>
+
+:::
+:::
+
+::: {.header-text} 
+::: {.content-container}
+::: {.header-block}
+Welcome to **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bring together data science students, practitioners, leaders, and educators to share knowledge, learn from, and be inspired by real-world applications of data science.
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="latest-content.qmd">
+
+## Latest content 
+</a>
+
+::: {#latest-content}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-purple.png){width="100px"}
+
+## Is data science a new and exciting set of skills, necessary for analyzing 21st century data? Or is it (as some have claimed) a rebranding of statistics, which has carefully developed time-honored methods for data analysis over the past century? In this article, we use two popular data science algorithms to examine the difference between data science, statistics, and other occupations. 
+Jonathan Auerbach, David Kepplinger, and Nicholas Rios ask, 'What is data science?'
+
+::: {.button}
+[Read their analysis](foundation-frontiers/posts/2024/02/19/what-is-data-science.qmd)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="the-pulse/index.qmd">
+
+## The Pulse 
+</a>
+
+::: {#the-pulse}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="case-studies/index.qmd">
+
+## Case Studies
+</a> 
+
+::: {#case-studies}
+:::
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-purple.png){width="100px"}
+
+## Generative AI is based on neural networks, which are so-called ‘black boxes’. This makes it difficult or impossible to explain the inner workings of the model which has potential implications if in the future you are challenged to justify decisioning or guidance based on the model.
+Excerpt from the UK government's framework for the use of generative AI
+
+::: {.button}
+[Read our key takeaways](the-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="foundation-frontiers/index.qmd">
+
+## Foundation & Frontiers
+</a> 
+
+::: {#foundation-frontiers}
+:::
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+<a href="people-paths/index.qmd">
+
+## People & Paths 
+</a>
+
+::: {#people-paths}
+:::
+
+:::
+:::
+
+::: {.footer-text}
+::: {.footer-container .black-background}
+::: {.footer-block}
+::: grid
+
+
+::: {.g-col-12 .g-col-md-2}
+### Published by
+[![](images/rss-footer-new.png){fig-align="left"}](https://rss.org.uk/)
+:::
+::: {.g-col-12 .g-col-md-2}
+### Our partners
+[![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/)
+:::
+::: {.g-col-12 .g-col-md-2}
+### With support from 
+[![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/)
+:::
+::: {.g-col-12 .g-col-md-2}
+:::
+::: {.g-col-12 .g-col-md-2}
+### About us
+[Our aims](about-rwds.qmd)\
+[Our team](/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
+[Partners and funders](rwds-partners.qmd)\
+[Contact us](contact.qmd)
+:::
+::: {.g-col-12 .g-col-md-2}
+### Contribute
+[Call for contributions](/contributor-docs/call-for-contributions.qmd)\
+[Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\
+[Style guide](/contributor-docs/style-guide.qmd)
+:::
+
+
+<!-- ::: {.g-col-12 .g-col-md-12}
+### Our partners
+logos to go here
+::: -->
+
+:::
+:::
+:::
+:::

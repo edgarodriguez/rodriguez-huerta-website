@@ -1,0 +1,42 @@
+---
+title: "Research and visualisation Portfolio"
+subtitle: "Example of portfolio (version Quarto + Lumo template)"
+format:
+  lumo-html: 
+    logo: "logo.png"                                     # Optional. Path to a logo displayed above the title
+    github-repo: "https://github.com/edgarodriguez"        # Optional. Adds a github corner at the top right
+    primary-color: "#69b3a2"
+    self-contained: true
+    is-particlejs-enabled: true                          # Optional: display interactive particles in the document header
+    bg-image: ""                                         # Optional: link to an image for the header background
+author: Edgar Rodriguez
+date: last-modified
+---
+
+
+
+
+## Introduction
+
+THIS WILL BE LAUNCHER PAGE
+
+
+
+
+::: {.column-margin}
+
+Btw, you can learn how to master Quarto thanks to my online course: [Productive R Workflow](https://www.productive-r-workflow.com)
+
+:::
+
+
+HERE MORE INFORMATION
+
+
+## Documentation
+
+The documentation for this quarto custom format is available [here](https://www.productive-r-workflow.com/r/bonus/lumo-quarto-template)
+
+
+
+
