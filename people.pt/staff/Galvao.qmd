@@ -1,0 +1,58 @@
+---
+title: "Pedro Igor Galvão"
+sortby: 11
+subtitle: "Rights Lab Research Fellow in Social Production of Space"
+image: "./content/img/Galvao.jpg"
+started:
+toc: false
+lang: pt
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/pedro-igor-galvão-gomes-2a52011a3/
+
+     
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Pedro Igor Galvão é bolsista Early Career Fellow do British Council e integrante do programa Measurement and Geographies do Rights Lab (Universidade de Nottingham). Sua pesquisa investiga como o trabalho análogo à escravidão e o desmatamento na Amazônia Legal brasileira se expressam espacialmente por meio de transformações desiguais da paisagem. Ele integra ferramentas de SIG, imagens de satélite e indicadores socioambientais para avaliar correlações entre uso do solo, exploração e injustiça territorial. É graduado em Arquitetura e Urbanismo e está concluindo o mestrado em Ciências do Ambiente pela Universidade Federal do Tocantins (UFT), onde pesquisa a paisagem como produto e instrumento da produção social do espaço. Seu trabalho evidencia como o legado colonial brasileiro se inscreve nos padrões espaciais de segregação, exploração e desigualdade socioambiental. Desde 2018, Pedro atua como pesquisador no Instituto de Atenção às Cidades (IAC/UFT), onde tem coordenado e colaborado em projetos de planejamento e gestão territorial em contextos urbanos e rurais. Sua experiência inclui a elaboração de Planos de Mobilidade Urbana Sustentável (PlanMobs), Planos Diretores Municipais, Relatórios de Licenciamento Ambiental e masterplans em escala regional. Essas iniciativas integram pesquisa acadêmica, consultoria técnica e métodos participativos para apoiar a governança territorial democrática e a justiça espacial.
+
+
+:::
+

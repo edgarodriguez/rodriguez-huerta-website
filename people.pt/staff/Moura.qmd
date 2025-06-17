@@ -1,0 +1,66 @@
+---
+title: "Flavia Moura"
+sortby: 6
+subtitle: "Professor of Social Communication, Federal University of Maranhão"
+image: "content/img/Moura.jpeg"
+started: "Fall 2020"
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6672-2319
+    - text: "{{< ai lattes >}} Lattes"
+      href: http://lattes.cnpq.br/7307805971520569 
+    - text: "{{< fa brands instagram >}} Instagram"
+      href: https://www.instagram.com/getecom_ufma/       
+    - text: "{{< fa brands youtube >}} Youtube"
+      href: https://www.youtube.com/channel/UC66NJJWpRJhoymztBVaOLMQ
+    - text: "{{< fa brands spotify >}} Spotify"
+      href: https://open.spotify.com/show/2qQInYIu0DZ0NET2Kp3fbC     
+    - text: "{{< fa at >}} email"
+      href: flavia.moura@ufma.br                
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Biografia
+
+Pós-Doutora em Sociologia e Antropologia (UFRJ) e Doutora em Comunicação Social (PUC-RS). Docente do Departamento de Comunicação Social e do Programas de Pós-Graduação de Comunicação/Mestrado Profissional da UFMA. Coordena atualmente dois projetos de pesquisa relacionando as temáticas Comunicação, Migração e Trabalho. Pesquisadora dos grupos de pesquisa [ObEEC (UFMA/CNPq)](https://portalpadrao.ufma.br/ppgcompro/grupos-de-pesquisa/obeec); [GPECOM (UFMA/CNPq)](https://portalpadrao.ufma.br/ppgcompro/grupos-de-pesquisa/grupo-de-pesquisa-e-estrategias-em-comunicacao), [GEPTS (UFMA/CNPq)](https://gepfs.ufma.br) e [GPTEC (UFRJ/CNPq)](https://www.gptec.org).
+
+
+:::

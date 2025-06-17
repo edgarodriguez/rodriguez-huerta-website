@@ -1,0 +1,14 @@
+---
+title: "Datavis"
+description: "Interactive visualizations, infographics and content for dissemination activities for all audiences"
+lang: en
+listing:
+  contents: datavis
+  feed: true
+  type: grid
+  include:
+    lang: en
+  sort: "date desc"
+  categories: true
+comments: false
+---

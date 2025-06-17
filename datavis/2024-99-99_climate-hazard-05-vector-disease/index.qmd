@@ -1,0 +1,76 @@
+---
+title: "Climate change and enviromental related risk: Vector-borne diseases"
+date: 2024-10-30
+date-modified: 2024-10-30
+draft: true
+draft-mode: visible 
+image: img/coming-soon.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - Climate change
+  - Workers Health
+  - R tools
+lang: en
+format: 
+  html:
+    page-layout: full
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+
+
+Series of six infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)
+
+## Coming soon
+
+
+![](img/vector-borne-soon.png "Infographic about vector-borne diseases and health issues")
+
+## Download {.appendix}
+
+- [Download in high resolution]
+- [Look inside the code](Depending the tool and code)
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

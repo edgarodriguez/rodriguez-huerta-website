@@ -1,24 +1,17 @@
 ---
-title: "Contact us"
+title: "Contact"
+hide_title: true
 sidebar: false
 page-layout: article
 toc: false
-title-block-banner: true
+title-block-banner: false
+lang: en
 ---
-## Editorial
 
-- **Email:** [rwds@rss.org.uk](mailto:rwds@rss.org.uk)
+## Email us
 
-- **GitHub:** [@realworlddatascience](https://github.com/realworlddatascience)
+```{=html}
+<iframe width="640px" height="1100px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHgiitQEkBjRKjd2tXIox8bNUNjhGR0lGUEpFQjA0TlM5WlpOSFczT1RSSC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+```
 
-- **Zenodo:** [Real World Data Science community](https://zenodo.org/communities/realworlddatascience)
 
-- **LinkedIn:** [RSS Real World Data Science](https://www.linkedin.com/showcase/rss-real-world-data-science)
-
-- **X:** [@rwdatasci](https://twitter.com/rwdatasci)
-
-- **Mastodon:** [@rwdatasci](https://fosstodon.org/@rwdatasci)
-
-## Advertising and commercial
-
-- **Email:** [advertising@rss.org.uk](mailto:advertising@rss.org.uk)

@@ -1,0 +1,50 @@
+---
+title: ""
+sortby: "5"
+subtitle: ""
+image: "content/img/logo-GPMAT.jpeg"
+started: ""
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: marquee
+  links:
+    - text: "{{< fa globe >}} Site"
+      href: https://gpmat-ufmt.com.br 
+    - text: "{{< fa brands instagram >}} Instagram"
+      href: https://www.instagram.com/gpmatufmt/      
+    - text: "{{< fa brands spotify >}} Spotify"
+      href: https://open.spotify.com/show/68yeLmhpkj9eKtwpPXWdAe   
+
+              
+---
+
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+GPMAT é um grupo de pesquisa da Universidade Federal de Mato Grosso, liderado pela professora Carla Leal, juíza trabalhista aposentada, cujas pesquisas abrangem temas como ambiente de trabalho, direitos da mulher trabalhadora, comunidade LGBTQIA+ no mercado de trabalho, trabalho escravo contemporâneo, entre outros. Formado em 2015/2016, o grupo tem presença marcante no cenário mato-grossense, com aparições semanais em uma rádio da capital, além de dois sites de notícias do estado de Mato Grosso, além de um podcast disponível no Spotify. A atuação do grupo é transfronteiriça, com participação em eventos nacionais e internacionais, além da publicação de livros e artigos em periódicos renomados. Nossos pesquisadores são profissionais atuantes em áreas afins e estudantes, seja na graduação ou na pós-graduação em direito.
+
+
+:::

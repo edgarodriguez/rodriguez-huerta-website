@@ -1,0 +1,27 @@
+---
+title: "We are cleaning data… but, meanwhile"
+description: 
+  "CRVA is part of the project's working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making."
+date: "2021-11-24"
+date-modified: today
+draft: true
+draft-mode: gone
+image: img/coming-soon.png
+execute:
+  echo: false
+#citation:
+#  url: https://www.nationalgeographic.com/into-the-amazon/
+categories:
+  - Climate Change
+  - CRVA
+lang: en
+title-block-banner: false
+---
+
+### Working in process
+
+CRVA is part of the project's working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.
+
+[1] https://www.infoworld.com/article/2257148/the-80-20-data-science-dilemma.html
+
+![](img/coming-soon.png "Scrollytelling about CRVA")

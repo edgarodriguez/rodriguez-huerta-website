@@ -1,0 +1,62 @@
+---
+title: "Climate and Occupational Health and Decent Work Nexus: Worker's Vulnerabilities"
+lang: pt
+date: 2024-09-01
+author: "Edgar Rodríguez-Huerta"
+image: "2024-09-01_Awarding-ODA.jpg"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - notícias
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+### Project idea
+
+This research will advance our understanding of the relationship between climate change, occupational health, and decent work, in the case of Brazilian agriculture, in partnership with Universidade Federal Fluminense. The project will produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil concerning climate hazards. It will assess how indecent work practices exacerbate vulnerability and decrease occupational health. The project provides valuable insights towards developing targeted mitigation and adaptation strategies by applying a multi-layer risk assessment approach that integrates climate models, socio-economic data, and qualitative data from participatory methods such as worker voice data. This project supports the broader aspirations for achieving decent work conditions, as set out in UN Sustainable Development Goal (SDG) 8, and linked with SDG 3, improving agricultural workers' overall health and well-being.
+
+**Funder:** British Academy’s ODA Challenge-Oriented Research Grants 2024 Programme **Duration:** 18 months (June 24 to Dec 25)
+
+Rights Lab project lead: Edgar Rodríguez-Huerta Programme: Measurement and Geographies
+
+-   [Project press release](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx)
+
+#### This is an example to check website
+:::
+
+Compartilhe esta publicação nas redes sociais::
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

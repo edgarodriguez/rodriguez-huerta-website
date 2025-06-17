@@ -1,0 +1,132 @@
+/* variables inherit from bootswatch css */
+
+
+/* Links */
+
+a {
+    color: #1098ad;
+    border-bottom: 0px;
+    text-decoration: none;
+}
+
+d-article a {
+    color: var(--bs-primary);
+    border-bottom: 0px;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #FEDD00;
+    font-weight: 100px;
+    border-color: var(--bs-secondary);
+}
+
+d-article a:hover, a:focus {
+    color: var(--bs-secondary);
+    font-weight: 100;
+    border-color: var(--bs-secondary);
+}
+
+/* Link buttons */
+
+.icon-link {
+    background-color: var(--bs-primary);
+    color: var(--bs-white);
+    padding: 3px 5px 3px 5px;
+    margin: 0 2px 0 2px;
+    border-radius: 5px; /* Rounded edges */
+}
+
+.icon-link:hover {
+    background-color: var(--bs-secondary);
+    color: var(--bs-white);
+}
+
+header {
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 100px;
+  font-size: large;
+}
+
+/* nav bar */
+
+.navbar-logo {
+  max-height: 130px;
+  color:#FEDD00;
+}
+
+.navbar-brand
+{
+  font-size: 20px;
+}
+
+.navbar {
+	
+background:#000000;
+color: #fffff0 ;
+width:100%;
+margin-left:auto;
+margin-right:auto;
+
+ }
+
+.navbar li.nav-item a.nav-link span {
+  color: #fffff0 !important;
+  font-size: x-large;
+  font-weight: 100;
+  
+}
+
+.footer{
+	font-size: 16px;
+}
+
+}
+
+
+/*------------callouts--------------------*/
+
+.callout-note.simple::before {
+  background-color: #5D00FF; /* your desired color */
+}
+
+.callout-warning {
+    font-size: 2.5em; /* Increases font size by 1.5 times */
+    border-left: 5px solid #5D00FF;
+}
+
+
+
+/*------------testimonies--------------------*/
+.testimonies {
+
+  border: 1px solid #BACBD8;
+  border-left: 5px solid #161F36; 
+}
+
+
+.testimonies-header  {
+  margin-left: 0em;
+  padding-left:  60px;
+  padding-top:  5px;
+  padding-bottom: 0.1em;
+  color: black;
+  background-color: rgb(123, 173, 173);
+  border-top-right-radius: 10px;
+  font-size: 1em;
+  font-weight: bold;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+
+}
+
+.testimonies-container {
+  padding-top: 5px;
+  padding-left: 10px;
+  color: black;
+  background-color: white;
+  border-bottom-right-radius: 20px;
+}
+
+

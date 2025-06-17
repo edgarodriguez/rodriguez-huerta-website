@@ -1,0 +1,80 @@
+---
+title: "The Hidden Cost of Renewables: Modern Slavery in Ethanol supply chain"
+description: 
+  "Renewables are not completely clean energy. Companies in the biofuel supply chain are on the “dirty list” using slave labor or conditions analogous to slavery"
+date: "2025-01-29"
+date-modified: "2025-01-29"
+draft: false
+image: img/monitor_cover_en.png
+execute:
+  echo: false
+#citation:
+
+categories:
+  - Decent work
+  - Just transition
+lang: en
+title-block-banner: false
+
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+
+---
+
+### Enslaved in Ethanol
+
+Ethanol is widely recognized as a important solution to reducing greenhouse gas emissions in transport sector and combating climate change. As the second-largest ethanol producer, Brazil plays a significant role in the global biofuel industry. However, despite its environmental benefits, ethanol production raises serious concerns regarding labour rights, occupational health, and social justice. The recent report [**Enslaved in Ethanol**](https://reporterbrasil.org.br/wp-content/uploads/2024/12/Monitor_Ethanol_EN.pdf) by [**Reportér Brasil**](https://reporterbrasil.org.br) highlights the exploitation and unsafe working conditions faced by sugarcane workers.
+
+
+::: {.centered}
+***"The situations reported in sugarcane fields  linked to their operations include workers killed  in fires, forced to sleep on the ground, unable to  leave their jobs because of illegal debts imposed  by their employers, and even hit by pesticides  dropped from airplanes."***
+:::
+
+
+Many workers are subjected to debt bondage and unpredictable wages due to unfair deductions, paying for their own travel, accommodation, and food. Additionally, extreme working hours and lack of formal contracts deny workers access to essential social security benefits. Some workers report sleeping only **four hours a night**, as long commutes and exhausting shifts make proper rest impossible. Moreover, sugarcane workers are frequently exposed to hazardous pesticides, experience severe physical effort, and high risks of heat-related illnesses.
+
+
+::: {.centered}
+***"Workers reported to inspectors that they had been sprayed on with pesticides. The plane that allegedly did the spraying can be seen in the photo taken by one of them on his cell phone."***
+:::
+
+![](img/pesticides.png "Source: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides")
+: Source: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides
+
+
+Addressing these challenges requires stronger enforcement of labour laws, greater corporate accountability, and improved oversight in supply chains. A just transition in the ethanol industry must prioritize not only environmental sustainability but also the protection of workers' rights and well-being. Governments, companies, and financial institutions must take decisive action to eliminate modern slavery, ensure fair wages, and provide safe working conditions. Ethanol may be a cleaner fuel alternative, but it must not come at the cost of human lives, dignity and fundamental labour rights.
+
+
+<style>
+.centered {
+    text-align: center;
+    color: #121920;
+}
+</style>
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

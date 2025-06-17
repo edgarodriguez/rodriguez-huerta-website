@@ -1,0 +1,26 @@
+{
+    "id": "6CA231DF",
+    "path": "~/ERH/50-Sites/rodriguez-huerta-website/aux_script.R",
+    "project_path": "aux_script.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1750193282228.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1741608969,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1741608969,
+    "read_only": false,
+    "read_only_alternatives": []
+}

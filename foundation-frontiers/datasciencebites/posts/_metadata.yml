@@ -1,5 +1,0 @@
-include-in-header: 
-  - ../../../progress-bar.html
-
-include-after-body: 
-  - ../datasciencebites-logo.html

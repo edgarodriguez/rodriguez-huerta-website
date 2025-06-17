@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  favicon: logo.png
+  open-graph: true
+  cookie-consent: true
+  twitter-card: true
+  title: "Web_test_240717"
+  navbar:
+    title: false
+    logo: logo.png
+    logo-alt: "ODA Brazil project"
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - text: get in touch!
+        menu:
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/edgarodriguez
+            target: _blank
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/edgarodriguez
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:edgar.rodriguez@nottingham.ac.uk
+      - icon: github
+        href: https://github.com/edgarodriguez
+        target: _blank
+  page-footer: 
+    background: light
+    left: © Copyright 2024, ERH
+    right: This website is built with {{< fa heart title="a heart" >}}
+
+ 
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Announcement** - We are working in the website. Official release will be soon"
+    type: primary
+    position: below-navbar
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    sidebar: true
+  
+editor: visual
+
+

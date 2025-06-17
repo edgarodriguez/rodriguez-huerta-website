@@ -1,0 +1,48 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file and render with rmarkdown::render("README.Rmd")-->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Climate Change Decent Work and Workers Health (CLIDEWO)
+
+Source code for [personal website of Edgar Rodriguez Huerta].
+
+Created with [Quarto](https://quarto.org/) in [R](https://www.r-project.org/). 
+
+
+## Local deployment
+
+- Generate the translated website with `babelquarto::render_website()`
+
+- Preview the website with `servr::httw("_site")`
+
+## Drafting a new blogpost
+
+Use the [custom `draft_post()` function](R/functions.R):
+
+```{r}
+post_qmd <- draft_post(
+  slug = "example_post",
+  title = "How to use the draft_post() function",
+  desc = "Using templates to increase productivity",
+  categories = c("R", "data")
+)
+readr::read_lines(post_qmd)
+fs::dir_delete(fs::path_dir(post_qmd))
+```
+
+## Licenses
+
+Code: [MIT](LICENSE)
+
+Text and images, unless otherwise indicated: Creative Commons Attribution [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+Publications (PDF files): Indicated in each publication.

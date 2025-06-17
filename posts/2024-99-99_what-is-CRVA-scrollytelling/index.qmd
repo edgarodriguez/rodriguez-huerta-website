@@ -1,0 +1,24 @@
+---
+title: "What is a Climate Risk Vulnerability Assessment?"
+description: 
+  "CRVA is part of the project's working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making."
+date: "2021-11-24"
+date-modified: today
+draft: true
+image: img/coming-soon.png
+execute:
+  echo: false
+#citation:
+#  url: https://www.nationalgeographic.com/into-the-amazon/
+categories:
+  - Climate Change
+  - CRVA
+lang: en
+title-block-banner: false
+---
+
+### Working in process
+
+CRVA is part of the project's working packages (WPs). In the blog we describe what it is, how it differs from the rest of the risk assessments and how it can be applied in better decision making.
+
+![](img/coming-soon.png "Scrollytelling about CRVA")

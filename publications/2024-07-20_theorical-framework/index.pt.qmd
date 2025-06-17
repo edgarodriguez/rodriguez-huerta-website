@@ -1,0 +1,65 @@
+---
+title: "Mudanças climáticas, trabalho decente e saúde do trabalhador no Brasil: considerações teóricas"
+description: ""
+draft: true
+draft-mode: unlinked
+date: "2024-12-31"
+date-modified: "2024-08-09"
+image: img/em-breve.png
+execute:
+  echo: false
+citation:
+  url: http://antigo.fundacentro.gov.br/rbso/inicio
+lang: pt  
+categories:
+  - Saúde dos trabalhadores
+  - Mudanças climáticas
+  - Direitos humanos
+  
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodr%C3%ADguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+  - name: Luís Leão
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+    orcid: 0000-0003-0166-5066
+  - name: Todd Landman
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-0281-7263
+
+
+---
+
+## Estamos trabalhando em
+
+Esta publicação explora o nexo teórico e conceitual entre mudanças climáticas, saúde dos trabalhadores, trabalho decente, direitos humanos e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, usando o caso dos trabalhadores agrícolas no Brasil. Estabelece a relação geral entre o risco das mudanças climáticas e as condições de trabalho, os padrões jurídicos e normas internacionais relevantes sobre os direitos dos trabalhadores e as características das condições dos trabalhadores na agricultura brasileira. Oferece uma agenda de investigação convincente com cinco pilares operacionais: (1) investigação, (2) vigilância e monitorização, (3) avaliação de riscos, (4) gestão de riscos e (5) políticas e regulamentos. A estrutura mais holística desenvolvida aqui evita explicações e soluções monocausais, intervenções incompletas e fragmentadas e múltiplas consequências não intencionais de maneiras que podem trazer impacto real aos meios de subsistência e à saúde dos trabalhadores agrícolas brasileiros.
+
+![](img/em-breve.png)
+
+#### Compartilhe em redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

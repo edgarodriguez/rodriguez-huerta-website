@@ -1,0 +1,55 @@
+---
+title: "O custo oculto das energias renováveis: Pessoas Em Condição Análoga À De Escravo na cadeia de fornecimento de Etanol"
+description: 
+  "Energias renováveis não são energias completamente limpas. Empresas da cadeia de fornecimento de biocombustíveis estão na “lista suja” que utilizam trabalho escravo ou condições análogas à escravidão"
+date: "2025-01-29"
+date-modified: "2025-01-29"
+draft: false
+image: img/monitor_cover_pt.png
+execute:
+  echo: false
+#citation:
+categories:
+  - Trabalho decente
+  - Transição justa
+lang: pt
+title-block-banner: false
+
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+Como parte do **programa de Comunicação de Pesquisa, Dominando a Arte da Comunicação de Pesquisa: Desenvolva suas Habilidades!** da [Academia de Pesquisa da Universidade de Nottingham](https://www.nottingham.ac.uk/studentservices/services/the-researcher-academy.aspx), tivemos a oportunidade de disseminar nossos projetos usando recursos não convencionais para mudar mentalidades e incentivar a criatividade. Foi agradável revisitar o LEGO — agora para continuar explorando novas maneiras de compartilhar pesquisas.
+
+Estamos trabalhando para produzir uma avaliação de risco climático e vulnerabilidade (CRVA) baseada em dados e informada pelos trabalhadores para trabalhadores agrícolas no Brasil. Cada camada colorida de LEGO representa uma peça vital do quebra-cabeça: dados climáticos, condições socioeconômicas e vozes dos trabalhadores. Ao aplicar uma avaliação de risco multicamadas, o projeto fornecerá insights sobre a relação entre mudanças climáticas, saúde dos trabalhadores e trabalho decente.
+
+Um grande agradecimento a [Andrew Rowe](https://www.linkedin.com/posts/edgarodriguez_lego-research-communication-activity-7326563704836169729- nNRM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAALXnIQBj7BMjHxUYo2pVUVkHx9yWZc77pU) por apresentar uma iniciativa tão boa.
+
+Desculpe pelo mapa horrível, mas fiquei sem tempo e sem blocos verdes 😅
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

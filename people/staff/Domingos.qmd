@@ -1,0 +1,56 @@
+---
+title: "Isabel Domingos Martinez dos Santos"
+sortby: 2
+subtitle: "Assistant Professor and researcher at the Department of Health Planning at the Institute of Public Health (ISC) at the Fluminense Federal University (UFF)"
+image: "./content/img/TBD.jpg"
+started: "Fall 2020"
+toc: false
+resources: 
+  - "TBD_CV.pdf"
+about:
+  id: person-profile
+  template: jolla
+#  links:
+#    - icon: link
+#      text: website
+#      href: 
+#    - icon: mortarboard
+#      text: scholar
+#      href: 
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Biography
+Coming soon
+
+:::

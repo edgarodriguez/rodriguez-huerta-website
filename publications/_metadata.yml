@@ -1,0 +1,28 @@
+# options specified here will apply to all posts in this folder
+editor: visual
+
+# Enable banner style title blocks
+title-block-banner: false
+
+# Enable CC licence appendix
+license: "CC BY NC"
+
+# Default for table of contents
+toc: true
+toc-title: Content
+toc-location: left
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+# - true: never re-render during project render, i.e., only re-render when 
+#   `quarto render` is run on that file
+# - false: always re-render
+# - auto: only re-render during project render if the source has changed
+#execute:
+#  freeze: true
+#  # knitr options
+#  echo: true
+#  message: true
+#  warning: true
+
+# Default author

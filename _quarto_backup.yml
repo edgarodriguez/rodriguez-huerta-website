@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  favicon: "content/images/logo_yellow3.png"
+  site-url: https://edgarodriguez.github.io/quarto-web-clidewo/
+  repo-url: https://github.com/edgarodriguez/quarto-web-clidewo
+  navbar:
+    pinned: true
+    logo: "content/img/logo_yellow3.png"
+    background: primary
+    right:
+      - href: about.qmd
+      - href: people.qmd
+      - href: publications.qmd
+      - text: Resources #change html index.pt to Recursos"
+        menu:
+          - href: resources.qmd
+          - href: datavis.qmd  
+          - href: literature-tools.qmd        
+          - href: other-resources.qmd                   
+      - href: blog.qmd 
+      - href: news.qmd
+      - href: contact.qmd      
+  page-footer:
+    background: black
+    left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
+    right: Multi-lenguage thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
+  google-analytics: "G-RG1R3XP26Q"
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Announcement** - We are working in the website. Official release will be soon / Anúncio - Estamos trabalhando no site. O lançamento oficial será em breve"
+    type: success
+    position: below-navbar
+
+format:
+  html:
+    theme: lux
+     # light: flatly
+     # dark: darkly
+  #  fontsize: 1.2rem
+  #  linestretch: 1.5
+    #fontcolor: "#212121"
+  #  mainfont: inter
+    css: ala_theme.css
+  #  include-in-header:
+  #    - text: |
+  #        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    toc: true
+    code-overflow: scroll
+babelquarto:
+  languagecodes:
+  - name: pt
+    text: "Português"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['pt']
+title-pt: 
+description-pt: CRVA
+author-pt: Edgar Rodriguez Huerta
+lang: en
+
+# Override language specific fields here
+babelquarto-pt:
+  format:
+    html:
+      comments:
+        giscus:
+          language: pt
+  website:
+    navbar:
+      right:
+        - href: talks.qmd
+          text: Platicas

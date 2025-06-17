@@ -1,0 +1,15 @@
+{
+  "hash": "d7385a82f7ee737a286f2599ab512fda",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Multilayer visualisation\"\n\ndate: \"2024-09-24\"\ndate-modified: today\nimage: img/map_layers.png\nexecute:\n  echo: false\ncitation:\n  url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/research-projects/climateandoccupationalhealthanddecentworknexus.aspx\ncategories:\n  - datavis\n  - R tools\nlang: en\nlightbox: true\n\n#author:\n#  - name: Edgar Rodriguez-Huerta\n#    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx\n#    affiliation: University of Nottingham, Rights Lab\n#    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx\n#    orcid: 0000-0002-6887-0040\n\n---\n\n\n\n\n\n:::{.column-body-outset}\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n\n::: {.justify}\n\nAn example of what Climate Risk Vulnerability Assessments (CRVA) looks like by applying the proposed method.\n\nComing soon: Insert figure, inlcuding coding source and references.\n\n![](img/map_layers.png \"From amazing post from Urban demograpghics\")\n\n## Reproducibility {.appendix}\n\n- [Reference](https://www.urbandemographics.org/post/figures-map-layers-r/)\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

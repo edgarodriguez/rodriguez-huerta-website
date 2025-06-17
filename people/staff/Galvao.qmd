@@ -1,0 +1,59 @@
+---
+title: "Pedro Igor Galvão"
+sortby: 11
+subtitle: "Rights Lab Research Fellow in Social Production of Space"
+image: "./content/img/Galvao.jpg"
+started:
+toc: false
+lang: en
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/pedro-igor-galvão-gomes-2a52011a3/
+
+     
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Pedro Igor Galvão is a British Council Early Career Fellow and a member of the Measurement and Geographies Programme at the Rights Lab (University of Nottingham). His research explores how forced labour and deforestation in the Brazilian Legal Amazon are spatially expressed through unequal landscape transformations. He integrates GIS, satellite imagery, and socio-environmental indicators to assess correlations between land use, exploitation, and territorial injustice. He holds a degree in Architecture and Urbanism and is completing a Master’s in Environmental Sciences at the Federal University of Tocantins (UFT), where he investigates landscape as both product and instrument of the social production of space. His work reveals how Brazil’s colonial legacy is inscribed in spatial patterns of segregation, exploitation, and socio-environmental inequality. Since 2018, Pedro has worked as a researcher at the Instituto de Atenção às Cidades (IAC/UFT), where he has coordinated and contributed to planning and territorial management projects across urban and rural contexts. His experience includes the development of Sustainable Urban Mobility Plans (PlanMobs), Municipal Master Plans, Environmental Licensing Reports, and regional-scale masterplans. These initiatives integrate academic research, technical consultancy, and participatory methods to support democratic territorial governance and spatial justice.
+ 
+
+
+:::
+

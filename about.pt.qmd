@@ -1,0 +1,67 @@
+---
+pagetitle: Sobre
+title: Sobre
+hide_title: true
+subtitle: ""
+sidebar: false
+page-layout: article
+draft: false
+toc: false
+lightbox: false
+title-block-banner: false
+lang: pt
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+
+## SOBRE
+
+Este projeto de pesquisa visa
+
+1. Produzir um Avaliação de Vulnerabilidade ao Risco Climático [em inglês: Climate Risk Vulnerability Assessment (CRVA)] para trabalhadores agrícolas no Brasil com relação aos riscos climáticos,
+2. Avaliar como as práticas de trabalho forçado exacerbam a vulnerabilidade e diminuem a saúde ocupacional,
+3. Entender como os trabalhadores estão se adaptando atualmente e quais são suas principais necessidades para aumentar sua resiliência às mudanças climáticas.
+
+Produziremos inferências acionáveis para as principais partes interessadas e formuladores de políticas com o objetivo de melhorar as estratégias de mitigação de riscos climáticos no trabalho agrícola e desenvolver estratégias de adaptação para trabalhadores afetados pelas mudanças climáticas.
+
+## Perguntas de pesquisa
+
+1. Como os riscos climáticos influenciam a prevalência de problemas de saúde ocupacional, doenças relacionadas ao trabalho e condições análogas à escravidão entre trabalhadores agrícolas no Brasil?
+
+2. Quais são os grupos mais afetados e os caminhos socioeconômicos pelos quais as mudanças climáticas impactam os direitos trabalhistas, salários e segurança ocupacional no setor agrícola?
+3. Quais intervenções existentes visam abordar os riscos climáticos e as condições indecentes de trabalho na agricultura?
+4. Como os trabalhadores na agricultura respondem aos riscos climáticos para promover o bem-estar, a segurança alimentar e práticas sustentáveis?
+5. Quais insights podem ser extraídos da pesquisa interdisciplinar para informar políticas e práticas para aumentar a resiliência e o bem-estar?
+
+Ao responder a essas perguntas, pretendemos entender melhor o impacto do nexo clima/trabalho/saúde nas populações locais, vinculando explicitamente as localizações geográficas a commodities agrícolas específicas. Isso identificará áreas vulneráveis donde intervenções direcionadas podem ajudar a mitigar os efeitos das mudanças climáticas. Os métodos, dados e análises novos, inovadores e integrados do projeto apoiarão essas estratégias de mitigação e adaptação mais direcionadas.
+
+
+#### Compartilhe em redes sociais:
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

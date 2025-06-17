@@ -1,0 +1,15 @@
+{
+  "hash": "ecf17147c901c9335b0e48fd69343418",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Climate change and enviromental related risk: UV Radiation\"\ndate: today\ndate-modified: today\ndraft: true\ndraft-mode: visible \nimage: img/coming-soon.png\nexecute:\n  echo: false\ncategories:\n  - datavis\n  - Climate change\n  - Workers Health\n  - R tools\nlang: en\nformat: \n  html:\n    page-layout: full\nlightbox: true\ntoc: false\nauthor:\n  - name: Edgar Rodriguez-Huerta\n    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx\n    affiliation: University of Nottingham, Rights Lab\n    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx\n    orcid: 0000-0002-6887-0040\n\n---\n\n\n\n\n\n\n\n\nSeries of six infographics describing the main risks to workers' health related to climate change and the environment [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)\n\n## Coming soon\n\n\n![](img/uv-radiation-soon.png \"Infographic about heat stress and health issues\")\n\n## Download {.appendix}\n\n- [Download in high resolution]\n- [Look inside the code](Depending the tool and code)\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

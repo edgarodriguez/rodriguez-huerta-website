@@ -1,0 +1,15 @@
+{
+  "hash": "eb2cd910fb8200017d9fff7b3aec5ab0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mudanças climáticas e riscos ambientais: Calor excessivo\"\ndate: today\ndate-modified: today\ndraft: true\ndraft-mode: visible \nimage: img/em-breve.png\nexecute:\n  echo: false\ncategories:\n  - datavis\n  - Climate change\n  - Workers Health\n  - R tools\nlang: pt\nformat: \n  html:\n    page-layout: full\nlightbox: true\ntoc: false\nauthor:\n  - name: Edgar Rodriguez-Huerta\n    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx\n    affiliation: University of Nottingham, Rights Lab\n    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx\n    orcid: 0000-0002-6887-0040\n\n---\n\n\n\n\n\n\n\n\nSérie de seis infográficos que descrevem os principais riscos à saúde dos trabalhadores relacionados às mudanças climáticas e ao meio ambiente [International Labour Organization (ILO) 2024](https://www.ilo.org/publications/ensuring-safety-and-health-work-changing-climate)\n\n## Em breve\n\n\n![](img/uv-radiation-soon.png \"Infográfico sobre estresse térmico e problemas de saúde\")\n\n## Download {.appendix}\n\n- [Baixe em alta resolução]\n- [Olhe dentro do código]\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

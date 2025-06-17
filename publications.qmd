@@ -1,0 +1,17 @@
+---
+title: "Publications"
+description: Here you can find and access our **publications**, **reports** and **policy briefings**
+lang: en
+listing:
+  contents: publications
+  feed: true
+  type: default
+  include:
+    lang: en
+  sort: "date desc"
+  categories: true
+comments: false
+title-block-banner: false
+
+---
+

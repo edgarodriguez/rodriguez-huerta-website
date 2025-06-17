@@ -1,0 +1,21 @@
+---
+title: "SmartLab"
+subtitle: "Data-Driven Decent Work Promotion"
+description: "Promoção do Trabalho Decente Guiada por Dados"
+lang: en
+date: 2024-01-23
+image: "smartlab_labeled-30.png"
+execute:
+  echo: false
+comments: false
+toc: false
+categories:
+  - Forced labour
+---
+
+
+## [SmartLab](https://smartlabbr.org/trabalhoescravo)
+
+Governments around the world produce large quantities of data relevant to public policies. However, these data are rarely transformed into useful information for decision-making in response to highly complex quests that mark the current situation and demand interventions based on evidence and oriented towards results. On the other hand, the formulation, monitoring and endorsement of programs, projects and public policies are processes that require information. In this context, the SmarlLab initiative emerged to build relevant knowledge for public policies to promote decent work with the use of a low-cost public resource: open public data.
+
+A joint initiative of the MPT and the ILO Brazil originates from the SmartLab Platform, which strengthens cooperation with government, non-governmental and international organizations that promote the agenda and that require information to make decisions about the actions we develop. Through Digital Observatory, the platform also benefits the scientific community, which now has access to information with unprecedented facilities for research. Furthermore, the public flow of information for making decisions based on evidence and oriented towards results benefits general civil society.

@@ -1,0 +1,57 @@
+---
+title: "Kelsey Carthew"
+sortby: 8
+subtitle: "Rights Lab Senior Operations Officer"
+image: "content/img/Carthew.jpeg"
+started:
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/kelsey-carthew/index.aspx
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/kelsey-carthew-480661118/
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Biografia
+
+Kelsey Carthew faz parte da equipe de operações de pesquisa do Rights Lab. Ela apoia os esforços de coordenação e implementação de diversos projetos de pesquisa do Rights Lab, além de fornecer suporte operacional. Ela se juntou à equipe após sucesso em outras funções na universidade. Atualmente, ela cursa seu mestrado em Direito Internacional Público na Universidade de Nottingham.
+
+:::
+

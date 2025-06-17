@@ -1,0 +1,24 @@
+---
+title: "Notícias/Eventos"
+description: "qui você pode encontrar próximos eventos e notícias relacionadas ao projeto e à equipe de trabalho"
+lang: pt
+listing:
+  contents: news
+  include:
+    lang: en
+  sort: "date desc"
+  type: default
+  categories: true
+  page-size: 9  
+  fields: [image, author, title, description, date, reading-time]  
+page-layout: full
+format: 
+  html:
+#   include-after-body: _footer.html 
+    grid:
+      sidebar-width: 250px
+      body-width: 1000px
+      margin-width: 200px
+comments: false
+---
+

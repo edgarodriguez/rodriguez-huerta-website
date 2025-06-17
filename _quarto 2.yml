@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  open-graph: true
+  site-url: https://edgarodriguez.github.io/quarto-web-testing/
+  repo-url: https://github.com/edgarodriguez/quarto-web-testing
+  repo-actions: [edit, issue]
+  title: "CRVA Brazil"
+
+  navbar:
+    title: false
+    logo: logo.png
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd
+      - text: get in touch!
+        menu:
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/edgarodriguez
+            target: _blank
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/edgarodriguez
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:edgar.rodriguezhuerta@nottingham.ac.uk
+      - icon: github
+        href: https://github.com/edgarodriguez
+        target: _blank
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Announcement** - We are working in the website. Official release will be soon"
+    type: success
+    position: below-navbar
+
+  page-footer:
+    background: light
+    left: © Copyright 2024, Edgar Rodríguez-Huerta
+    right: This website is built with {{< fa heart title="a heart" >}} Multi-lenguage thanks to babelquarto :)
+  google-analytics: "G-RG1R3XP26Q"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    header-includes: |
+      <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" type="text/css"/>
+
+
+
+babelquarto:
+  languagecodes:
+  - name: pt
+    text: "Portuguese"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['pt']
+title-pt: title in pt
+description-pt: description in pt
+author-pt: author in pt
+lang: en

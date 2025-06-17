@@ -1,0 +1,24 @@
+---
+title: "O que é uma avaliação de vulnerabilidade aos riscos climáticos?"
+description: 
+  "O CRVA faz parte dos pacotes de trabalho (WPs) do projeto. No blog descrevemos o que é, como difere das demais avaliações de risco e como pode ser aplicado na melhor tomada de decisão."
+date: "2021-11-24"
+date-modified: today
+draft: true
+image: img/em-breve.png
+execute:
+  echo: false
+#citation:
+#  url: https://www.nationalgeographic.com/into-the-amazon/
+categories:
+  - Climate Change
+  - CRVA
+lang: pt
+title-block-banner: false
+---
+
+### Trabalhando em processo
+
+O CRVA faz parte dos pacotes de trabalho (WPs) do projeto. No blog descrevemos o que é, como difere das demais avaliações de risco e como pode ser aplicado na melhor tomada de decisão.
+
+![](img/em-breve.png "Scrollytelling sobre CRVA")

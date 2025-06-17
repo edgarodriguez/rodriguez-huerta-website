@@ -1,0 +1,63 @@
+---
+title: "Todd Landman"
+sortby: 3
+subtitle: "Rights Lab Research Director and Professor of Political Science"
+image: "content/img/Landman.jpg"
+started: 
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/todd-landman/index.aspx
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.co.uk/citations?user=eK7k3pQAAAAJ&hl=en
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/toddlandman/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/DrToddLandman     
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biografia
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+O Professor Todd Landman é Diretor de Pesquisa do Rights Lab e Professor de Ciência Política na Universidade de Nottingham. Ele trabalha na área de direitos humanos há 25 anos e atualmente pesquisa nas áreas de prevalência da escravidão moderna, antiescravagismo como movimento social e teoria social da escravidão moderna, entre outros tópicos. Atualmente, ele lidera um grande projeto com financiamento externo que avalia riscos aos direitos humanos, incluindo trabalho forçado, no contexto de empresas e cadeias de suprimentos, e trabalha como parte de um grande projeto do governo dos EUA que pesquisa a extensão e as causas da mendicância forçada de crianças no Níger. Seu livro mais recente é "The Rights Track: Sound Evidence on Human Rights and Modern Slavery" (2022).
+
+:::
+

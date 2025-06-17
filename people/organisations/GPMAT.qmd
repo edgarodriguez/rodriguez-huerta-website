@@ -1,0 +1,44 @@
+---
+pagetitle: Organisations
+title: ""
+sortby: "5"
+subtitle: ""
+image: "content/img/logo-GPMAT.jpeg"
+started: ""
+toc: false
+about:
+  id: person-profile
+  template: marquee
+  links:
+    - text: "{{< fa globe >}} Website"
+      href: https://gpmat-ufmt.com.br 
+    - text: "{{< fa brands instagram >}} Instagram"
+      href: https://www.instagram.com/gpmatufmt/      
+    - text: "{{< fa brands spotify >}} Spotify"
+      href: https://open.spotify.com/show/68yeLmhpkj9eKtwpPXWdAe   
+
+              
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+GPMAT is a research group at the Federal University of Mato Grosso, led by Professor Carla Leal, a retired labor judge, whose research covers topics such as the work environment, the rights of working women, the LGBTQIA+ community in the labor market, and contemporary slave labor, among others. Formed in 2015/2016, the group has a notable presence in the Mato Grosso scene, with weekly appearances on a radio station in the capital, as well as on two news websites in the state of Mato Grosso, in addition to a podcast available on Spotify. The group's activities are cross-border, with participation in national and international events, as well as the publication of books and articles in renowned journals. Our researchers are professionals working in related fields and students, whether in the undergraduate or graduate program in law.
+
+:::

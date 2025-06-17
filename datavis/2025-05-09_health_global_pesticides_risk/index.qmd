@@ -1,0 +1,101 @@
+---
+title: "Brazil's pesticide risk and degrating working conditions"
+date: "2025-05-09"
+date-modified: "2025-05-09"
+# draft: true
+# draft-mode: visible 
+image: img/infographic-agrchemicals-high.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - Agrochemicals
+  - Workers Health
+
+lang: en
+format: 
+  html:
+    page-layout: full
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+:::{.column-body-outset}
+
+While we continue to extract and wrangle multiple datasets, we're excited to share the first infographic in our new series exploring the intersection of Climate change, Decent Work, and Workers’ Health.
+
+40% of Brazil's population resides in areas with high pesticide risk, where agricultural workers and rural communities are most significantly exposed, having frequent and direct contact with agrochemicals.
+
+Under degrading working conditions —defined as analogous to forced labour under Article 149 of the Brazilian Criminal Code— the risks of agrochemical poisoning and chronic illness rise significantly. Labour inspections have uncovered violations, including Inadequate water, sanitation, and hygiene (WASH) infrastructure, degrading living conditions, excessive and illegal overtime, and arbitrary wage deductions, as the most frequent incidents.
+
+These factors violate workers’ rights and increase the chances of acute poisoning and chronic diseases, since they commonly undermine access to proper decontamination facilities and safety measures. One clear example is highlighted in the investigative report  **Enslaved in Ethanol**, which illustrates how poisoning risks from agrochemical use and labour exploitation are tightly interconnected.
+
+
+::: {.callout-warning appearance="simple" icon=false}
+
+
+
+“The situations reported in sugarcane fields linked to their operations include workers killed in fires, forced to sleep on the ground, unable to leave their jobs because of illegal debts imposed by their employers, and even hit by pesticides dropped from airplanes.” [Enslaved in Ethanol, page 5](https://lnkd.in/euFa2uHp)
+
+:::
+
+
+We will soon enable an interactive version and unpack these critical connections among Climate Change, Decent Work, and Workers’ Health.
+
+
+![](img/infographic-agrchemicals-high.png "Brazil's pesticide risk and degrating working conditions")
+
+:::		
+
+## Download {.appendix}
+
+- [Interactive version] (coming soon)
+- [Download high resolution datavis](img/global_pesticides_risk_score.pdf)
+- [Download Tableau worksheet] (coming soon)
+- [Look inside the code to collect data] (coming soon)
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

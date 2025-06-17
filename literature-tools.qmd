@@ -1,0 +1,95 @@
+---
+title: ""
+sidebar: true
+page-layout: article
+title-block-banner: false
+lang: en
+toc: true
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+```
+
+:::{.column-body-outset}
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+## Literature review and analysis tools
+
+Part of our goals is to open up new ways of sharing information and learning during all stages of the project, including the process of collecting references, literature review, and discussion among the team.
+
+The following are some proposed tools. We are still in the process of identifying which tools are most effective for our purpose and that fit the project workflow. So, this could evolve in the future.
+
+## Alphaxiv
+
+[alphaXiv.org](https://www.alphaxiv.org) is an online platform designed for open and collaborative discussion on research papers published on arXiv. It allows users to leave comments directly on specific lines within a paper, fostering a more focused and insightful conversation.
+
+#### How we will use Alphaxiv
+
+As an open access tool, we will include analyses related to our literature review and the process during the development of the methodological framework. We also believe that it will be a powerful tool for collaborating with other stakeholders during the project.
+
+## Literature review networks
+
+[ResearchRabbit](https://www.researchrabbit.ai) is a free online “citation-based literature mapping tool." It is a visual literature review software mapping tool. The tool connects your research interests to related articles and authors. 
+
+#### How we will use ResearchRabbit
+
+We will share our collections of quotes and leave it open to the community to collaborate to identify gaps and strengthen data collection.
+
+See our collection in Research Rabbit: [Collection (in process)](https://www.researchrabbitapp.com/collection/public/0LJ1DNE86W)
+
+
+## Data science tools and R packages
+
+Code for Climate Risk Vulnerability Assessment (CRVA) integration will be included to facilitate reproducibility of the project.
+
+
+:::
+
+We are grateful for the previous work that facilitates the replicability of research. Analysis is conducted with the following R packages:
+
+:::{#logo-r-packages layout-ncol=10}
+[![](./content/img/R-packages/datazoom-amazonia.png)](https://www.econ.puc-rio.br/datazoom/english/dz_R.html){fig-align="center" width="100%"}
+
+[![](./content/img/R-packages/geobr_logo_y.png)](https://github.com/ipeaGIT/geobr){fig-align="center" width="100%"}
+
+[![](./content/img/R-packages/censobr.png)](https://ipeagit.github.io/censobr/){fig-align="center" width="100%"}
+
+[![](./content/img/R-packages/readdbc.png)](https://github.com/danicat/read.dbc){fig-align="center" width="100%"}
+
+[![](./content/img/R-packages/sidrar.png)](https://cran.r-project.org/web/packages/sidrar/vignettes/Introduction_to_sidrar.html){fig-align="center" width="100%"}
+:::
+
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+
+

@@ -1,0 +1,82 @@
+---
+title: "O custo oculto das energias renováveis: Pessoas Em Condição Análoga À De Escravo na cadeia de fornecimento de Etanol"
+description: 
+  "Energias renováveis não são energias completamente limpas. Empresas da cadeia de fornecimento de biocombustíveis estão na “lista suja” que utilizam trabalho escravo ou condições análogas à escravidão"
+date: "2025-01-29"
+date-modified: "2025-01-29"
+draft: false
+image: img/monitor_cover_pt.png
+execute:
+  echo: false
+#citation:
+categories:
+  - Trabalho decente
+  - Transição justa
+lang: pt
+title-block-banner: false
+
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+### Escravizado do Etanol
+
+O etanol é amplamente reconhecido como uma solução importante para reduzir as emissões de gases de efeito estufa no setor de transporte e combater as mudanças climáticas. Como segundo maior produtor de etanol, o Brasil desempenha um papel significativo na indústria global de biocombustíveis. Entretanto, apesar de seus benefícios ambientais, a produção de etanol levanta sérias preocupações em relação aos direitos trabalhistas, saúde ocupacional e justiça social. O relatório recente [**Escravizado do Etanol**](https://reporterbrasil.org.br/wp-content/uploads/2024/12/Monitor_Etanol_PT.pdf) by [**Reportér Brasil**](https://reporterbrasil.org.br) highlights the exploitation and unsafe working conditions faced by sugarcane workers.
+
+
+::: {.centered}
+***"Trabalhadores mortos em queimadas, obrigados a dormir no chão, forçados a trabalhar por conta de dívidas ilegais impostas pelo empregador e até mesmo atingidos por agrotóxicos lançados de aviões estão entre as situações reportadas em canaviais ligados às suas operações."***
+
+:::
+
+
+Muitos trabalhadores são submetidos à servidão por dívidas e salários imprevisíveis devido a deduções injustas, pagando suas próprias viagens, acomodações e alimentação. Além disso, horários de trabalho extremos e a falta de contratos formais negam aos trabalhadores o acesso a benefícios essenciais da previdência social. Alguns trabalhadores relatam dormir apenas **quatro horas por noite**, pois longos deslocamentos e turnos exaustivos impossibilitam um descanso adequado. Além disso, os trabalhadores da cana-de-açúcar são frequentemente expostos a pesticidas perigosos, sofrem esforços físicos intensos e correm altos riscos de doenças relacionadas ao calor.
+
+
+::: {.centered}
+***"Durante resgate ocorrido em fazendas de cinco municípios de Goiás e Minas Gerais, trabalhadores relataram aos fiscais que foram atingidos por agrotóxicos. Na foto, tirada pelo celular de um deles, é possível ver o avião que supostamente realizou a pulverização"***
+:::
+
+![](img/pesticides.png "Fonte: Enslaved in Ethanol. Workers reported to inspectors that they had been sprayed on with pesticides")
+
+: *Fonte: Escravizado do Etanol. Trabalhadores relataram aos inspetores que foram pulverizados com pesticidas*
+
+
+Enfrentar esses desafios exige uma aplicação mais rigorosa das leis trabalhistas, maior responsabilização corporativa e melhor supervisão nas cadeias de suprimentos. Uma transição justa na indústria do etanol deve priorizar não apenas a sustentabilidade ambiental, mas também a proteção dos direitos e do bem-estar dos trabalhadores. Governos, empresas e instituições financeiras devem tomar medidas decisivas para eliminar a escravidão moderna, garantir salários justos e fornecer condições de trabalho seguras. O etanol pode ser uma alternativa de combustível mais limpa, mas não deve ser feito à custa de vidas humanas, dignidade e direitos trabalhistas fundamentais.
+
+
+
+
+<style>
+.centered {
+    text-align: center;
+    color: #121920;
+}
+</style>
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

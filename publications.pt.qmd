@@ -1,0 +1,15 @@
+---
+title: "Publicações"
+description: Aqui você pode encontrar e acessar nossas **publicações**, **relatórios** e **briefings de políticas**
+lang: pt
+listing:
+  contents: publications
+  feed: true
+  type: default
+  include:
+    lang: pt
+  sort: "date desc"
+  categories: true
+comments: false
+title-block-banner: false
+---

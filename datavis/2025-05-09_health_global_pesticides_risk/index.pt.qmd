@@ -1,0 +1,100 @@
+---
+title: "Risco de agrotóxicos e condições de trabalho degradantes no Brasil"
+date: "2025-05-09"
+date-modified: "2025-05-09"
+# draft: true
+# draft-mode: visible 
+image: img/infographic-agrchemicals-high.png
+execute:
+  echo: false
+categories:
+  - datavis
+  - Climate change
+  - Workers Health
+
+lang: pt
+format: 
+  html:
+    page-layout: full
+lightbox: true
+toc: false
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+:::{.column-body-outset}
+
+Enquanto continuamos a extrair e analisar vários conjuntos de dados, estamos animados em compartilhar o primeiro infográfico da nossa nova série que explora a interseção entre mudanças climáticas, trabalho decente e saúde dos trabalhadores.
+
+40% da população brasileira reside em áreas com alto risco de pesticidas, onde trabalhadores agrícolas e comunidades rurais estão mais significativamente expostos, tendo contato frequente e direto com agrotóxicos.
+
+Em condições de trabalho degradantes — definidas como análogas ao trabalho forçado pelo artigo 149 do Código Penal Brasileiro — os riscos de intoxicação por agrotóxicos e doenças crônicas aumentam significativamente. As inspeções trabalhistas revelaram violações, incluindo infraestrutura inadequada de água, saneamento e higiene (WASH), condições de vida degradantes, horas extras excessivas e ilegais e deduções arbitrárias de salários, como os incidentes mais frequentes.
+
+Esses fatores violam os direitos dos trabalhadores e aumentam as chances de intoxicação aguda e doenças crônicas, pois geralmente prejudicam o acesso a instalações adequadas de descontaminação e medidas de segurança. Um exemplo claro é destacado no relatório investigativo **Escravizados do Etanol**, que ilustra como os riscos de envenenamento pelo uso de agrotóxicos e pela exploração laboral estão intimamente interligados.
+
+
+::: {.callout-warning appearance="simple" icon=false}
+
+
+“As situações relatadas em canaviais ligados às suas operações incluem trabalhadores mortos em incêndios, forçados a dormir no chão, impossibilitados de deixar seus empregos por causa de dívidas ilegais impostas por seus empregadores e até mesmo atingidos por pesticidas lançados de aviões.”[Escravizados do Etanol, página 5](https://reporterbrasil.org.br/wp-content/uploads/2024/12/Monitor_Etanol_PT.pdf)
+
+:::
+
+Em breve, disponibilizaremos uma versão interativa e desvendaremos essas conexões críticas entre mudanças climáticas, trabalho decente e saúde dos trabalhadores.
+
+![](img/infographic-agrchemicals-high.png "Brazil's pesticide risk and degrating working conditions")
+:::
+
+## Baixar {.appendix}
+
+**Em Breve version in PT**
+
+- [Versão interativa] (Em breve)
+- [Baixe em alta resolução] (Em breve)
+- [Baixar planilha do Tableau] (Em breve)
+- [Olhe dentro do código para coletar dados] (coming soon)
+
+
+#### Compartilhe em redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

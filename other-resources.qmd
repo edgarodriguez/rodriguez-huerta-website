@@ -1,0 +1,18 @@
+---
+title: "Other Resources"
+description: "List of other resources related to the analysis for Climate Change, Decent Work and Workers Health"
+comments: false
+lang: en
+date: today
+listing:
+  contents: other-resources
+  include:
+    lang: en
+  type: table
+  fields: [title,description, categories]
+  categories: true
+  sort:
+    - "date desc"
+    - "title desc"
+page-layout: full    
+---

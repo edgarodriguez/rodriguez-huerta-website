@@ -1,34 +1,70 @@
 ---
-title: "Welcome to Real World Data Science"
-subtitle: A showcase for data science in action
+pagetitle: about
+title: about
+hide_title: true
+subtitle: ""
 sidebar: false
 page-layout: article
+draft: false
 toc: false
-title-block-banner: true
+lightbox: false
+title-block-banner: false
+lang: en
 ---
-Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
 
-## What are our aims?
-Real World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to: 
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
 
-* discover and learn more efficiently;  
-* acquire practical problem-solving skills;  
-* share their knowledge and accomplishments publicly;  
-* work smarter, ethically, and more effectively.  
+# Include dependencies to track with renv here
+library(fontawesome)
+```
 
-## What we provide
-Resources are *created* to meet the needs of our target audiences. These include: 
+:::{.column-body-outset}
 
-* **Case studies** – showing how data science is used to solve real-world problems in business, public policy and beyond. 
-* **Explainers** – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.
-* **Exercises** – to challenge and develop the analytical mindset that all data scientists need to succeed.    
-* **Advice** – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development. 
 
-We are also *curating* resources to help data scientists identify trustworthy, high-quality content. These include: 
+This research project aims to 
 
-* **Training guides** – step-by-step approaches and recommended sources for learning new skills and methods. 
-* **Datasets** – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs. 
-* **Feeds** – who and what to follow to keep up with new ideas and developments.
+1. Produce a Climate Risk Vulnerability Assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards, 
+2. Assess how forced labour practices exacerbate vulnerability and decrease occupational health, 
+3. Understand how workers are currently adapting and what their main needs are to increase their resilience to climate change.
 
-## How you can get involved
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).
+We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change.
+
+## RESEARCH QUESTIONS
+
+1. How do climate hazards influence the prevalence of occupational health issues, work-related diseases, and slavery-like conditions among agricultural workers in Brazil?
+
+2. What are the most affected groups and the socioeconomic pathways through which climate change impacts labour rights, wages, and occupational safety within the agricultural sector?
+3. What existing interventions aim to address climate risks and indecent working conditions in agriculture?
+4. How do workers in agriculture respond to climate hazards to promote well-being, food security and sustainable practices?
+5. What insights can be drawn from interdisciplinary research to inform policy and practice for enhancing resilience and well-being?
+
+
+In answering these questions, we aim to better understand the impact of the climate/work/health nexus on local populations by explicitly linking geographical locations to specific agricultural commodities. This will identify vulnerable areas where targeted interventions can help to mitigate the effects of climate change. The project’s novel, innovative, and integrated methods, data, and analysis will support these more targeted mitigation and adaptation strategies.
+
+
+
+#### Share this post on social media:
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+
+:::

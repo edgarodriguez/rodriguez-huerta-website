@@ -1,0 +1,19 @@
+---
+title: "Datasets"
+description: "Downloand and explore databases generated during the project"
+comments: false
+lang: en
+listing:
+  contents: resources
+  include:
+    lang: en
+  type: table
+  fields: [title,description, categories, date]
+  categories: true
+  sort:
+    - "date desc"
+    - "title desc"
+page-layout: full
+---
+
+We are developing our first dataset, **“Occupational health risk in agricultural workers in Brazil”**, which will be available in the first quarter of 2025.

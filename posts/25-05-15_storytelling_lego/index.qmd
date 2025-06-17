@@ -1,0 +1,62 @@
+---
+title: "LEGO-tellying"
+description: 
+  "Exploring new ways to share research"
+date: "2025-05-15"
+date-modified: "2025-05-15"
+draft: false
+image: img/clidewo-lego.gif
+execute:
+  echo: false
+#citation:
+
+categories:
+  - Scientific dissemination
+
+lang: en
+title-block-banner: false
+
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodríguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+
+
+---
+
+As part of the **Research Communication program, Mastering the Art of Research Communication: Develop your Skills!** by the [University of Nottingham's Research Academy](https://www.nottingham.ac.uk/studentservices/services/the-researcher-academy.aspx), we had the opportunity to disseminate our projects using non-conventional resources to change mindsets and encourage creativity. It was enjoyable to revisit LEGO — now to continue exploring new ways to share research.
+
+
+We are working to produce a worker-informed, data-driven climate risk and vulnerability assessment (CRVA) for agricultural workers in Brazil. Each coloured LEGO layer represents a vital piece of the puzzle: climate data, socioeconomic conditions, and workers' voices. By applying a multi-layer risk assessment, the project will provide insights into the relationship between climate change, workers' health, and decent work.
+
+A big thank you to [Andrew Rowe](https://www.linkedin.com/posts/edgarodriguez_lego-research-communication-activity-7326563704836169729-nNRM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAALXnIQBj7BMjHxUYo2pVUVkHx9yWZc77pU) for introducing such a great initiative. 
+
+Sorry for the terrible map, but I ran out of time and green blocks 😅
+
+
+
+![](img/clidewo-lego.gif "Lego-tellying ")
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```
+

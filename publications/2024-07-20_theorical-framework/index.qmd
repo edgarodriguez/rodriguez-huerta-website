@@ -1,0 +1,63 @@
+---
+title: "Climate Change, Decent Work and Workers’ Health in Brazil: Theoretical Considerations"
+description: ""
+draft: true
+draft-mode: visible
+date: "2024-12-31"
+date-modified: "2024-08-09"
+image: img/coming-soon.png
+execute:
+  echo: false
+citation:
+  url: http://antigo.fundacentro.gov.br/rbso/inicio
+lang: en  
+categories:
+  - Workers Health
+  - Climate change
+  - Human Rights
+  
+author:
+  - name: Edgar Rodriguez-Huerta
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/edgar-rodr%C3%ADguez-huerta/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-6887-0040
+  - name: Luís Leão
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    affiliation: Universidade Federal Fluminense
+    affiliation-url: https://www.uff.br
+    orcid: 0000-0003-0166-5066
+  - name: Todd Landman
+    url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    affiliation: University of Nottingham, Rights Lab
+    affiliation-url: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx
+    orcid: 0000-0002-0281-7263
+
+---
+
+## We are working on in
+
+This paper explores the theoretical and conceptual nexus between climate change, workers’ health, decent work, human rights, and the UN Sustainable Development Goals (SDGs) using the case of agricultural workers in Brazil. It establishes the overall relationship between climate change risk and working conditions, relevant international legal standards and norms on worker rights, and the features of worker conditions in Brazilian agriculture. It offers a compelling research agenda with five operational pillars: (1) research, (2) surveillance and monitoring, (3) risk assessment, (4) risk management, and (5) policies and regulations. The more holistic framework developed here avoids monocausal explanations and solutions, incomplete and fragmented interventions, and multiple unintended consequences in ways that can bring real impact to the livelihoods and health of Brazilian agricultural workers.
+
+![](img/coming-soon.png)
+
+#### Share it on social media:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

@@ -1,0 +1,17 @@
+---
+title: "posts"
+description: "Comentários, perspectivas e informações relacionadas aos objetivos do projeto"
+lang: pt
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

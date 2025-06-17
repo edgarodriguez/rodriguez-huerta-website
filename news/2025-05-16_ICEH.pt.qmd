@@ -1,0 +1,55 @@
+---
+title: "2º Congresso Internacional de Humanidades Ecológicas"
+lang: pt
+date: 2025-04-16
+author: "Edgar Rodríguez-Huerta"
+image: "2025-05-16_ICEH.png"
+execute:
+  echo: false
+comments: false
+toc: false
+title-block-banner: false
+categories:
+  - news
+
+
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+
+Estaremos presentes no [2º Congresso Internacional de Humanidades Ecológicas](https://eventum.upf.edu/124629/detail/ii-congres-internacional-dhumanitats-ecologiques.html) para apresentar alguns resultados preliminares sobre as interconexões entre a saúde dos trabalhadores e as condições degradantes de trabalho. Este encontro oferece um espaço rico para o diálogo inter e transdisciplinar.
+
+Estou ansioso para me conectar com participantes que estão repensando as relações entre humanos e meio ambiente.
+
+A apresentação se concentrará em 20 anos de dados de saúde e registros de escravidão moderna para identificar padrões entre áreas com maior incidência de doenças relacionadas a WASH e saúde ocupacional. Ele serve como um passo fundamental para identificar relações causais e melhorar mecanismos de vigilância e avaliações de risco. Ao integrar dados de saúde pública com inspeções trabalhistas, o estudo visa aumentar a cobertura das inspeções, promover a colaboração entre múltiplas partes interessadas e fortalecer os esforços para abordar a exploração trabalhista e as vulnerabilidades de saúde simultaneamente.
+
+Se você for participar, adoraria me conectar com você!
+
+
+#### Compartilhe em redes sociais:
+
+```{=html}
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
+
+<a class="a2a_button_email a2a_counter"></a>
+<a class="a2a_button_copy_link a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_bluesky a2a_counter"></a>
+<a class="a2a_button_x a2a_counter"></a>
+<a class="a2a_button_threads a2a_counter"></a>
+<a class="a2a_button_mastodon a2a_counter"></a>
+<a class="a2a_button_whatsapp a2a_counter"></a>
+<a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+```

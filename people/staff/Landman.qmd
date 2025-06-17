@@ -1,0 +1,63 @@
+---
+title: "Todd Landman"
+sortby: 3
+subtitle: "Rights Lab Research Director and Professor of Political Science"
+image: "content/img/Landman.jpg"
+started: 
+toc: false
+resources: 
+  - "TBD_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/todd-landman/index.aspx
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.co.uk/citations?user=eK7k3pQAAAAJ&hl=en
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/toddlandman/
+    - icon: twitter
+      text: twitter
+      href: https://x.com/DrToddLandman     
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+```
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+Professor Todd Landman is the Rights Lab Research Director and Professor of Political Science at the University of Nottingham. He has worked in the field of human rights for 25 years, and is currently researching in the areas of modern slavery prevalence, anti-slavery as a social movement, and the social theory of modern slavery, among other topics. He currently leads a large externally-funded project assessing human rights risks, including forced labour, in the context of business and supply chains, and works as part of a large US-government project that is researching the extent and causes of forced child begging in Niger. His most recent book is The Rights Track: Sound Evidence on Human Rights and Modern Slavery (2022).
+
+:::
+
