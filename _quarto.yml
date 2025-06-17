@@ -2,26 +2,26 @@ project:
   type: website
 
 website:
-  title: "Real World Data Science"
+  title: "Rodriguez-Huerta, Edgar"
   image: images/rwds-logo-150px.png
   favicon: images/rwds-favicon.png
   twitter-card:
-    site: "@rwdatasci"
+    site: "@edgarodriguez"
   open-graph: true
-  site-url: https://realworlddatascience.net/
-  repo-url: https://github.com/realworlddatascience/realworlddatascience.github.io
+  site-url:
+  repo-url:
   repo-actions: [edit, issue]
-  # If you are forking our repo to develop content -- whether for Real World Data Science 
+  # If you are forking our repo to develop content -- whether for Real World Data Science
   # or your own purposes -- please disable our Google Analytics tag during development.
   # If building your own site, replace our GA tag with your own GA tag before deployment.
   # This will prevent your activity being tracked and counted in our analytics dashboard.
   # Thank you!
-  google-analytics: "G-1TTWB7YTR6"
+ # google-analytics:
   navbar:
     toggle-position: right
     background: "#f0eeeb"
     logo: images/rwds-logo-150px.png
-    logo-alt: "Real World Data Science brand"
+    logo-alt: "Rodriguez-Huerta"
     title: false
     collapse-below: lg
     right:
@@ -30,16 +30,18 @@ website:
       - people-paths/index.qmd
       - the-pulse/index.qmd
       - text: "About RWDS"
-        menu: 
-        - text: "Who we are"
-          href: about-rwds.qmd
+        menu:
+        - text: "About me"
+          href: about.qmd
+        - text: "Publications"
+          href: contributor-docs/call-for-contributions.qmd
         - text: "How to contribute"
           href: contributor-docs/call-for-contributions.qmd
         - text: "Code of conduct"
           href: CODE_OF_CONDUCT.md
-        - text: "Contact us"
+        - text: "Contact"
           href: contact.qmd
-  sidebar: 
+  sidebar:
     - title: "About us"
       contents:
         - about-rwds.qmd
@@ -71,7 +73,7 @@ website:
         - ideas/tutorials/index.qmd
         - ideas/datasciencebites/index.qmd
     - title: "The Pulse"
-      contents: 
+      contents:
         - the-pulse/index.qmd
         - the-pulse/editors-blog/index.qmd
         - the-pulse/interviews/index.qmd
@@ -119,5 +121,5 @@ format:
       body-width: 1000px
       margin-width: 250px
 
-execute: 
+execute:
   freeze: auto
