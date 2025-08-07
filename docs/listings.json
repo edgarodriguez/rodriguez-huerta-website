@@ -15,6 +15,13 @@
     ]
   },
   {
+    "listing": "/talks.html",
+    "items": [
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
+  },
+  {
     "listing": "/datavis.html",
     "items": [
       "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
@@ -37,23 +44,6 @@
     "listing": "/publications.html",
     "items": [
       "/publications/2024-07-20_theorical-framework/index.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/staff/Rodriguez-Huerta.html",
-      "/people/staff/Domingos.html",
-      "/people/staff/Landman.html",
-      "/people/staff/Leao.html",
-      "/people/staff/Reita.html",
-      "/people/staff/Moura.html",
-      "/people/staff/Montanari.html",
-      "/people/staff/Carthew.html",
-      "/people/staff/Siviero.html",
-      "/people/staff/Trevizan.html",
-      "/people/staff/Galvao.html",
-      "/people/staff/Andrade.html"
     ]
   },
   {

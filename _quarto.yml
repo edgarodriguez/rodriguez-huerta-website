@@ -13,17 +13,18 @@ website:
     background: primary
     right:
       - href: about.qmd
-      - href: people.qmd
-      - href: publications.qmd
-      - text: Resources #change html index.pt to Recursos"
+
+
+      - text: Portfolio #change html index.pt to Recursos"
         menu:
           - href: resources.qmd
           - href: datavis.qmd
           - href: literature-tools.qmd
           - href: other-resources.qmd
       - href: blog.qmd
-      - href: news.qmd
-      - href: contact.qmd
+      - href: talks.qmd
+      - href: publications.qmd
+
   page-footer:
     background: black
     left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
@@ -48,15 +49,15 @@ format:
     code-overflow: scroll
 babelquarto:
   languagecodes:
-  - name: pt
-    text: "Português"
+  - name: es
+    text: "Español"
   - name: en
     text: "English"
   mainlanguage: 'en'
-  languages: ['pt']
+  languages: ['es']
 title-pt:
-description-pt: CRVA
-author-pt: Edgar Rodriguez Huerta
+description-es: CRVA
+author-es: Edgar Rodriguez Huerta
 lang: en
 
 # Override language specific fields here

@@ -13,6 +13,13 @@ knitr::opts_chunk$set(
 
 # Climate Change Decent Work and Workers Health (CLIDEWO)
 
+- Website build from multiples sources:
+  - Yan for landpage
+  - CV - vitae from...
+  - Scrollying index: Real Statistics website
+  - Babelquarto: Joel Nitta
+  - 
+
 Source code for [personal website of Edgar Rodriguez Huerta].
 
 Created with [Quarto](https://quarto.org/) in [R](https://www.r-project.org/). 

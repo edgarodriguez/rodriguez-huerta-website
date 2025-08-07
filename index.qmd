@@ -24,7 +24,6 @@ library(fontawesome)
 ```
 
 ::: {.column-screen}
-![](./content/img/Ecosystem.jpg "CHANGE IMAGE")
 :::
 
 
@@ -49,9 +48,6 @@ DATA SCIENCE + SUSTAINABILITY + INDUSTRIAL ECOLOGY + CLIMATE CHANGE
 
 
 :::
-
-## Acknowledgement
-
 
 
 #### Share it on social media:
