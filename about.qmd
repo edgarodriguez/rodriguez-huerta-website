@@ -10,6 +10,10 @@ toc: false
 lightbox: false
 title-block-banner: false
 lang: en
+adsense:
+  publisher-id: ca-pub-8824987846194517
+filters:
+- adsense
 ---
 
 ```{r}
@@ -27,6 +31,10 @@ library(fontawesome)
 HELLO WORLD
 
 ## RESEARCH MOTIVATIONS
+
+1
+2
+3
 
 #### Share this post on social media:
 
