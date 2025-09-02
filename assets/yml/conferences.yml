@@ -1,0 +1,77 @@
+
+
+CIHE-2025:
+  title: "Conference: II International Congress on Ecological Humanities"
+  location: Barcelona, Spain
+  date: Jul 2025
+  description: "The Johns Hopkins University - Universitat Pompeu Fabra Public Policy Center"
+  details:
+   - "Decent Work and Workers Health nexus in Brazilian agriculture"
+
+ETI-2025:
+  title: "Workshop: Just transitions in food, farming and fisheries"
+  location: London, UK
+  date: Jun 2025
+  description: "Ethical Trading Initiative, IIED, BananaLink" 
+
+aht-2025:
+  title: "Workshop: Adressing Human Trafficking and Forced Labour in the Anthropoce"
+  location: Oxford, UK
+  date: Apr 2025
+  description: "Survivor Alliance, The Human Trafficking Legal Center, The Freedom Fund"
+
+csh-2024:
+  title: "Workshop: Visualizing Complexity Science"
+  location: Vienna, Austria
+  date: Sep 2024
+  description: "Complexity Science Hub"
+
+lasting-2024:
+  title: "Collaboration: Friedman School of Nutrition Science and Policy at Tufts University"
+  location: Boston, MA, USA
+  date: 2022 to 2024
+  description: "Leading A Sustainability Transition in Nutrition Globally (LASTING) Project"  
+
+stanford-2023:
+  title: "Workshop: Decent Fisheries Work in a Changing Climate"   
+  location: Stanford, CA, USA
+  date: May 2023
+  description: "Stanford University, the King Center and Center for Ocean Solutions"    
+
+DoL-2022:
+  title: "Brown bag sessions"
+  location: Stanford, CA, USA
+  date: Mar 2022
+  description: "U.S. Department of Labor and Tufts University"
+  details:
+   - "Talk: How Social Life Cycle Assessment (S-LCA) can help address forced labour"  
+
+# u21:
+#  title: "Workshop: Universitas21 Early Career Researcher"
+#  location: Nottingham, UK (online)
+#  date: Feb 2022
+#  description: "Tackle Planetary Health Challenges"     
+
+# atomik:
+#  title: "Session: UK Atomic Energy Authority"
+#  location: Nottingham, UK (online)
+#  date: Jul 2021
+#  description: "Modern Slavery, Environmental Degradation, and the Energy Sector"     
+
+
+water_yp:
+  title: "22nd Ordinary Session of the Yucatan Peninsula Basin Council"
+  location: Mérida, México
+  date: Feb 2021
+  description: "Consejo de Cuenca de la Península de Yucatán & Ithaca Environmental"
+  details:
+   - "Invitation to co-design the Regional Water Program 2020-2024 of the Yucatan Peninsula"
+   
+
+# talent-2016:
+#  title: "Conference: 1st International Forum of Mexican Talent"
+#  location: Guadalajara, México
+#  date: Apr 2016
+#  description: "Innovation Match MX (IMMX)" 
+#  details:
+#   - "Study of renewable energies in Catalonia from the metabolic pattern approach"  

@@ -5,6 +5,27 @@
     ],
     "publications.qmd": [
       "publications"
+    ],
+    "publications.pt.qmd": [
+      "publications"
+    ],
+    "other-resources.pt.qmd": [
+      "other-resources"
+    ],
+    "news.pt.qmd": [
+      "news"
+    ],
+    "blog.pt.qmd": [
+      "posts"
+    ],
+    "datavis.qmd": [
+      "datavis"
+    ],
+    "blog.qmd": [
+      "posts"
+    ],
+    "talks.qmd": [
+      "news"
     ]
   }
 }

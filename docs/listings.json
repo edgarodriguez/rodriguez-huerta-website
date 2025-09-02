@@ -2,9 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/25-05-15_storytelling_lego/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html"
+      "/posts/25-05-15_storytelling_lego/index.html"
     ]
   },
   {
@@ -15,22 +13,16 @@
     ]
   },
   {
-    "listing": "/talks.html",
+    "listing": "/posts.html",
     "items": [
-      "/news/2025-05-16_ICEH.html",
-      "/news/2024-09-01_Awarding-ODA.html"
+      "/posts/25-05-15_storytelling_lego/index.html",
+      "/posts/25-05-15_storytelling_lego/index.pt.html"
     ]
   },
   {
-    "listing": "/datavis.html",
+    "listing": "/publications.html",
     "items": [
-      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
-      "/datavis/2024-99-99_climate-hazard-06-agrochemicals/index.html",
-      "/datavis/2024-12-31_climate-hazard-01-heat/index.html",
-      "/datavis/2024-99-99_climate-hazard-05-vector-disease/index.html",
-      "/datavis/2024-99-99_climate-hazard-04-air-pollution/index.html",
-      "/datavis/2024-99-99_climate-hazard-02-radiation/index.html",
-      "/datavis/2024-99-99_climate-hazard-03-extreme-weather/index.html"
+      "/publications/2024-07-20_theorical-framework/index.html"
     ]
   },
   {
@@ -41,24 +33,47 @@
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/datavis.html",
     "items": [
-      "/publications/2024-07-20_theorical-framework/index.html"
+      "/datavis/2025-05-09_health_global_pesticides_risk/index.html",
+      "/datavis/2024-12-31_climate-hazard-01-heat/index.html"
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/talks.html",
     "items": [
-      "/posts/25-05-15_storytelling_lego/index.html",
-      "/posts/25-05-15_storytelling_lego/index.pt.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.html",
-      "/posts/2024-01-29_enslaved_ethanol/index.pt.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.html",
-      "/posts/2024-99-99_what-is-CRVA-scrollytelling/index.pt.html"
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
     ]
   },
   {
     "listing": "/resources.html",
     "items": []
+  },
+  {
+    "listing": "/blog.pt.html",
+    "items": [
+      "/posts/25-05-15_storytelling_lego/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/other-resources.pt.html",
+    "items": [
+      "/other-resources/SmartLab.pt.html",
+      "/other-resources/climate-conflict.pt.html"
+    ]
+  },
+  {
+    "listing": "/publications.pt.html",
+    "items": [
+      "/publications/2024-07-20_theorical-framework/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/news.pt.html",
+    "items": [
+      "/news/2025-05-16_ICEH.html",
+      "/news/2024-09-01_Awarding-ODA.html"
+    ]
   }
 ]

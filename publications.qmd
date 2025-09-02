@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: Here you can find and access our **publications**, **reports** and **policy briefings**
+description: List of publication and access to open-access and preprint
 lang: en
 listing:
   contents: publications
@@ -15,3 +15,29 @@ title-block-banner: false
 
 ---
 
+
+### Peer reviewed
+
+- **Rodríguez-Huerta**, E., Leão L., Landman, T.   (2025). Climate change, decent work and workers’ health in Brazil: theoretical considerations.  Revista Brasileira de Saúde Ocupacional  [`https://nottingham-repository.worktribe.com/output/46458837`](https://nottingham-repository.worktribe.com/output/46458837)
+
+- Tigchelaar, M., Jackson, B., Selig, E., Davis, A.,  O’Regan, E., Trond, K., Nakayama, S., Boyd, D., Cheung, W., **Rodríguez-Huerta**, E., Williams, C., Decker Sparks, J. (2025). Conceptualization of Decent Work in Fishing in a Changing Climate. *Marine Policy*. [`https://doi.org/10.1016/j.marpol.2025.106846`](https://doi.org/10.1016/j.marpol.2025.106846)
+
+- Boyd, D., Jackson, B., Decker Sparks, J., Giles M. F, Girindran, R., Gosiling, S., Trodd, Z. Ni Bhriain, L., **Rodríguez-Huerta**, E. (2024). The future of decent work: Forecasting heat stress and the intersection of sustainable development challenges in India's brick kilns.  *Sustainable Development*, [`https://doi.org/10.1002/sd.3272`](https://doi.org/10.1002/sd.3272)
+
+- Blackstone, N.T., Battaglia K., **Rodríguez-Huerta**, E., Bell, B., Decker Sparks J., Cash S., Conrad Z., Nikkhah A., Jackson B., Matteson J., Gao S., Fuller K., Zhang F.F., Webb P. (2024). Diets cannot be sustainable without ensuring the well-being of communities, workers, and animals in food value chains. *Nature Food*,  [`https://doi.org/10.1038/s43016-024-01048-0`](https://doi.org/10.1038/s43016-024-01048-0)
+
+- Lumley-Sapanski A., **Rodríguez-Huerta**, E., Young, M., Nicholson A., Schwarz K.  (2024). Criminalizing survivors of modern slavery: the United Kingdom’s National Referral Mechanism as a border-making process. *Journal of Social Policy*,  [`https://doi.org/10.1017/S0047279424000230`](https://doi.org/10.1017/S0047279424000230)
+
+- Blackstone, N.T., **Rodríguez-Huerta**, E., Battaglia K., Jackson B., Jackson E., Benoît Norris C.,  Decker Sparks, J.L. (2023). Forced labour risk is pervasive in the US land-based food supply. *Nature Food*.   [`https://doi.org/10.1038/s43016-023-00794-x`](https://doi.org/10.1038/s43016-023-00794-x)
+
+<!-- 
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Hernández-Terrones, L. M. (2019). A water balance model to estimate climate change impact on groundwater recharge in Yucatan Peninsula, Mexico. *Hydrological Sciences Journal*, [`https://doi.org/10.1080/02626667.2019.1702989`](https://doi.org/10.1080/02626667.2019.1702989)
+
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Hernández-Terrones, L. M. (2019). Water societal metabolism in the Yucatan Peninsula. The impact of climate change on the recharge of groundwater by 2030. *Journal of Cleaner Production*, 235, 272–287. [`https://doi.org/10.1016/j.jclepro.2019.06.310`](https://doi.org/10.1016/j.jclepro.2019.06.310)
+
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Sorman, A. H. (2017). A societal metabolism approach to job creation and renewable energy transitions in Catalonia. Energy Policy, 108. [`https://doi.org/10.1016/j.enpol.2017.06.024`](https://doi.org/10.1016/j.enpol.2017.06.024)
+-->
+
+### Non-Peer reviewed
+
+- Cockayne, J., **Rodríguez-Huerta** E., Burcu, O. (2022). The Energy of Freedom? Solar Energy, Modern Slavery and the Just Transition. *Research report*, 70,000 words, funded by the British Academy: [`https://www.thebritishacademy.ac.uk/publications/the-energy-of-freedom-solar-energy-modern-slavery-and-the-just-transition/`](https://www.thebritishacademy.ac.uk/publications/the-energy-of-freedom-solar-energy-modern-slavery-and-the-just-transition/)

@@ -1,0 +1,167 @@
+---
+title: CV
+author:
+  firstname: Edgar
+  lastname: Rodríguez-Huerta
+  address: "Data Science, Sustainability and Supply Chain Mapping | £2.1m in Co-I & PI grant funding | FWCI: 1.42"
+  position: "Rights Lab Senior Research Fellow in Social Sustainability and Complex Systems"
+  contacts:
+    - icon: fa envelope
+      text: edgar.rodriguezhuerta@nottingham.ac.uk
+      url: "edgar.rodriguezhuerta@nottingham.ac.uk"
+#    - icon: assets/icon/bi-house-fill.svg
+#      text: example.com
+#      url: https://example.com
+    - icon: fa brands orcid
+      text: 0000-0002-6887-0040
+      url: https://orcid.org/0000-0002-6887-0040
+#    - icon: fa brands github
+#      text: GitHub
+#      url: https://github.com/example
+    - icon: fa brands linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/edgarodriguez/
+
+keep-typ: true
+style:
+   color-accent: "009BC1"
+   font-header: "Helvetica"
+   font-text: "Roboto"
+   linkcolor: "009BC1"
+   text-weight: "light" 
+  
+format:
+  awesomecv-typst:
+    font-paths: ["PATH_TO_FONT"]
+---
+
+
+  
+## Experience
+{{< yaml assets/yml/work_academic.yml >}}
+
+## Industry Experience
+
+{{< yaml assets/yml/work_non_academic.yml >}}
+
+## Education
+
+{{< yaml assets/yml/education.yml >}}
+
+
+
+## Selected publications 
+
+
+### Peer reviewed
+
+- **Rodríguez-Huerta**, E., Leão L., Landman, T.   (2025). Climate change, decent work and workers’ health in Brazil: theoretical considerations.  Revista Brasileira de Saúde Ocupacional  [`https://nottingham-repository.worktribe.com/output/46458837`](https://nottingham-repository.worktribe.com/output/46458837)
+
+- Tigchelaar, M., Jackson, B., Selig, E., Davis, A.,  O’Regan, E., Trond, K., Nakayama, S., Boyd, D., Cheung, W., **Rodríguez-Huerta**, E., Williams, C., Decker Sparks, J. (2025). Conceptualization of Decent Work in Fishing in a Changing Climate. *Marine Policy*. [`https://doi.org/10.1016/j.marpol.2025.106846`](https://doi.org/10.1016/j.marpol.2025.106846)
+
+- Boyd, D., Jackson, B., Decker Sparks, J., Giles M. F, Girindran, R., Gosiling, S., Trodd, Z. Ni Bhriain, L., **Rodríguez-Huerta**, E. (2024). The future of decent work: Forecasting heat stress and the intersection of sustainable development challenges in India's brick kilns.  *Sustainable Development*, [`https://doi.org/10.1002/sd.3272`](https://doi.org/10.1002/sd.3272)
+
+- Blackstone, N.T., Battaglia K., **Rodríguez-Huerta**, E., Bell, B., Decker Sparks J., Cash S., Conrad Z., Nikkhah A., Jackson B., Matteson J., Gao S., Fuller K., Zhang F.F., Webb P. (2024). Diets cannot be sustainable without ensuring the well-being of communities, workers, and animals in food value chains. *Nature Food*,  [`https://doi.org/10.1038/s43016-024-01048-0`](https://doi.org/10.1038/s43016-024-01048-0)
+
+- Lumley-Sapanski A., **Rodríguez-Huerta**, E., Young, M., Nicholson A., Schwarz K.  (2024). Criminalizing survivors of modern slavery: the United Kingdom’s National Referral Mechanism as a border-making process. *Journal of Social Policy*,  [`https://doi.org/10.1017/S0047279424000230`](https://doi.org/10.1017/S0047279424000230)
+
+- Blackstone, N.T., **Rodríguez-Huerta**, E., Battaglia K., Jackson B., Jackson E., Benoît Norris C.,  Decker Sparks, J.L. (2023). Forced labour risk is pervasive in the US land-based food supply. *Nature Food*.   [`https://doi.org/10.1038/s43016-023-00794-x`](https://doi.org/10.1038/s43016-023-00794-x)
+
+<!-- 
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Hernández-Terrones, L. M. (2019). A water balance model to estimate climate change impact on groundwater recharge in Yucatan Peninsula, Mexico. *Hydrological Sciences Journal*, [`https://doi.org/10.1080/02626667.2019.1702989`](https://doi.org/10.1080/02626667.2019.1702989)
+
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Hernández-Terrones, L. M. (2019). Water societal metabolism in the Yucatan Peninsula. The impact of climate change on the recharge of groundwater by 2030. *Journal of Cleaner Production*, 235, 272–287. [`https://doi.org/10.1016/j.jclepro.2019.06.310`](https://doi.org/10.1016/j.jclepro.2019.06.310)
+
+- **Rodríguez-Huerta**, E., Rosas-Casals, M., & Sorman, A. H. (2017). A societal metabolism approach to job creation and renewable energy transitions in Catalonia. Energy Policy, 108. [`https://doi.org/10.1016/j.enpol.2017.06.024`](https://doi.org/10.1016/j.enpol.2017.06.024)
+-->
+
+### Non-Peer reviewed
+
+- Cockayne, J., **Rodríguez-Huerta** E., Burcu, O. (2022). The Energy of Freedom? Solar Energy, Modern Slavery and the Just Transition. *Research report*, 70,000 words, funded by the British Academy: [`https://www.thebritishacademy.ac.uk/publications/the-energy-of-freedom-solar-energy-modern-slavery-and-the-just-transition/`](https://www.thebritishacademy.ac.uk/publications/the-energy-of-freedom-solar-energy-modern-slavery-and-the-just-transition/)
+
+- Boyd, D., **Rodríguez-Huerta**, E., Jackson B.,  Decker Sparks, J.L. (2021). The Social and Ecological Impacts of Supply Chains. *Research report*, 16,000 words, funded by the World Wide Fund for Nature.
+
+<!-- 
+- **Rodríguez-Huerta**, E., (2016). CO2 Footprint Analysis using the LCA Approach. Case study: Wind power plant ‘Chacabal and Chacabal II’ in Yucatan, funded by PlanetaLimpio Mexico.
+-->
+
+### Under review/Development
+
+- **Rodríguez-Huerta**, E., Bell, B., Jackson, B., Blackstone, N.T., Battaglia, K., Marquez, A.S., Benoît Norris, C., Decker Sparks, J.L., Conrad, Z., Matteson, J. (anticipated 2025).  The human cost of current and recommended diets in the U.S. (*under second review for Nature Food*).  [`https://doi.org/10.21203/rs.3.rs-4999594/v1`](https://doi.org/10.21203/rs.3.rs-4999594/v1])
+
+- **Rodríguez-Huerta**, E., Jackson, B., Blackstone, N.T., Decker Sparks, J.L., (anticipated 2025).  Modern slavery’s carbon cost in supply chains: the case of Brazilian soy and sugarcane. *Book chapter for Supply Chains and the SDGs (Elgar Companion)*.
+
+- **Rodríguez-Huerta**, E., Trevizan. A., Landman, T., et al. (anticipated 2026).  Exploratory Analysis of the interrelationships between occupational health and decent work (*in preparation for World Development*).
+
+- **Rodríguez-Huerta**, E., Walker, R., Ní Bharain, L., Boyd, D., Jackson, B., (anticipated 2026). Exploration of off-season labour patterns for Indian brick kiln workers (*in preparation for International Journal of Operations & Production Management*).
+
+- Jackson, B., **Rodríguez-Huerta**, E., Marshall, H., Pereira, A.C., Chandler, C., Light, M., Iqbal, S., Boyd, D.,  Decker Sparks, J.L. (anticipated 2026). Measuring the co-occurrence of tree loss and modern slavery in Brazil between 2001-2021 (*in preparation TBD*).
+
+
+### Other selected outcomes
+
+- **Rodriguez Huerta**, E., (2024-ongoing). Multilingual website for dissemination activities and results of the project 'Climate Change, Occupational Health, and Decent Work: Worker Vulnerabilities and Responses in Brazilian Agriculture' *Digital Artefact: Website Content* [`https://www.clidewo.com`](https://www.clidewo.com)
+
+- Jackson, B., **Rodriguez Huerta**, E., Boyd, D., Girindran, R., Ni Bhriain, L., & Trodd, Z. (2024). Environmental Impacts Training Module: Assessing Risks to Workers in India (Versions: English, Hindi, Punjabi & Bengali) *Digital Artefact: Website Content* [`https://nottingham-repository.worktribe.com/output/44691673`](https://nottingham-repository.worktribe.com/output/44691673)
+
+- **Rodriguez Huerta**, E., (2023). Interactive Visualizations to expand on results from the ‘Forced labor risk is pervasive in the US land-based food supply (Blackstone et al. 2023). *Digital Artefact: Website Content* [`https://sites.tufts.edu/lasting/data/`](https://sites.tufts.edu/lasting/data/)
+
+
+## Grants and Fellowships
+
+{{< yaml assets/yml/grants.yml >}}
+
+## Awards
+
+{{< yaml assets/yml/award.yml >}}
+
+
+## Selected Events and Collaborations
+
+{{< yaml assets/yml/conferences.yml >}}
+
+## Teaching
+
+### Graduate
+
+{{< yaml assets/yml/teaching.yml >}}
+
+### Seminars
+
+{{< yaml assets/yml/workshop.yml >}}
+
+## Selected extra training
+
+{{< yaml assets/yml/training.yml >}}
+
+## Skills and Languages
+
+### Languages\
+_Spanish (Native)_, _English (Fluent)_
+
+### Programming and Markdown language\
+_R_, _SQL (intermediate)_, _Quarto_
+
+### Software\
+_Tableau [Desktop and Prep], Rstudio, QGIS, OpenLCA, Zotero, VosViewer, Xerte (intermediate), Affinity (learning), Observable (learning)_
+
+
+## Academic Service
+
+### Grants and Journals Reviewed\
+
+
+_British Academy for Knowledge frontiers: Just Transition_, _Journal of Cleaner Production_, _Energy Policy_, _Hydrogeology Journal_, _Joule_, _Anti-Trafficking Review_, _Economía Creativa_.
+
+### Student Supervision\
+
+- PhD Students: 3 supervised – Topics in Food Systems
+- MSc Students: 4 supervised – Research in data extraction, and regional development
+- Support for MSc students from the Technical University of Denmark (DTU) for the project “Sociotechnical dimension of renewable energies” (Apr 2024).
+- BSc Students: 3 supervised – Placement students related to data science projects and just transition
+
+
+### Societes\
+
+- Member of [`The British Academy Career Researcher Network`](https://www.thebritishacademy.ac.uk/early-career-researcher-network/) since 2023.
+

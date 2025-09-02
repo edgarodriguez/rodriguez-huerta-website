@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - ads.txt
 website:
   favicon: "content/img/clidewo-favicon.png"
   site-url: https://github.com/edgarodriguez/rodriguez-huerta-website
@@ -13,62 +15,44 @@ website:
     background: primary
     right:
       - href: about.qmd
-
-
+      - href: publications.qmd
+      - text: Datavis #change html index.pt to Recursos"
+        menu:
+          - href: datavis.qmd
+          - href: other-resources.qmd
       - text: Portfolio #change html index.pt to Recursos"
         menu:
           - href: resources.qmd
-          - href: datavis.qmd
           - href: literature-tools.qmd
           - href: other-resources.qmd
       - href: blog.qmd
       - href: talks.qmd
-      - href: publications.qmd
+      - text: CV
+        href: cv.qmd      
 
   page-footer:
     background: black
     left: © Copyright 2024 CC-BY-NC, Edgar Rodríguez-Huerta
-    right: Multi-lenguage thanks to [babelquarto](https://docs.ropensci.org/babelquarto/index.html) and [Joel Nitta Website](https://www.joelnitta.com)
+    right: Some text
   google-analytics: "G-RG1R3XP26Q"
 #  cookie-consent:
 #    type: express
 #    style: headline
 #    palette: dark
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "COMING SOON: Subscribe to our newsletter to be updated on project progress / EM BREVE: Assine nosso boletim informativo para ser atualizado sobre o andamento do projeto"
-    type: success
-    position: below-navbar
+#  announcement:
+#    icon: info-circle
+#    dismissable: true
+#    content: "COMING SOON: Subscribe to our newsletter to be updated on project progress / EM BREVE: Assine nosso boletim informativo para ser atualizado sobre o andamento do projeto"
+#    type: success
+#    position: below-navbar
 
 format:
   html:
-    theme: lux
+    theme: flatly
     css: clidewo_theme.css
     toc: true
     code-overflow: scroll
-babelquarto:
-  languagecodes:
-  - name: es
-    text: "Español"
-  - name: en
-    text: "English"
-  mainlanguage: 'en'
-  languages: ['es']
-title-pt:
-description-es: CRVA
-author-es: Edgar Rodriguez Huerta
-lang: en
-
-# Override language specific fields here
-babelquarto-pt:
-  format:
-    html:
-      comments:
-        giscus:
-          language: pt
-  website:
-    navbar:
-      right:
-        - href: talks.qmd
-          text: Platicas
+adsense:
+  publisher-id: ca-pub-8824987846194517
+filters:
+- adsense

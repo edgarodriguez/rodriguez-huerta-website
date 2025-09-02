@@ -1,0 +1,9 @@
+lang:
+  title: Languages
+  description: Spanish (Native), English (Fluent)
+programming:
+  title: Programming and Markup Languages
+  description: R, SQL (intermediate), Quarto
+software:
+  title: Software
+  description: Tableau (Desktop and Prep), OpenLCA, Zotero, QGIS, VosViewer, Xerte (intermediate), Affinity (learning), Observable (learning) 

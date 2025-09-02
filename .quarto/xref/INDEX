@@ -10,5 +10,35 @@
   },
   "Testing.qmd": {
     "Testing.html": "b82744c0"
+  },
+  "about.qmd": {
+    "about.html": "4979df0d"
+  },
+  "publications.pt.qmd": {
+    "publications.pt.html": "600f764c"
+  },
+  "other-resources.pt.qmd": {
+    "other-resources.pt.html": "47b24cc1"
+  },
+  "news.pt.qmd": {
+    "news.pt.html": "c4ea0559"
+  },
+  "blog.pt.qmd": {
+    "blog.pt.html": "39ec9d0d"
+  },
+  "cv.qmd": {
+    "cv.typ": "9ced4b5b"
+  },
+  "datavis.qmd": {
+    "datavis.html": "9c683a6a"
+  },
+  "blog.qmd": {
+    "blog.html": "44f277ea"
+  },
+  "talks.qmd": {
+    "talks.html": "b476cea8"
+  },
+  "index.qmd": {
+    "index.html": "71b3d3bb"
   }
 }

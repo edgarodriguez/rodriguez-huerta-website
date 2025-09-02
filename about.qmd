@@ -24,47 +24,22 @@ library(fontawesome)
 
 :::{.column-body-outset}
 
+HELLO WORLD
 
-This research project aims to 
-
-1. Produce a Climate Risk Vulnerability Assessment (CRVA) for agricultural workers in Brazil with respect to climate hazards, 
-2. Assess how forced labour practices exacerbate vulnerability and decrease occupational health, 
-3. Understand how workers are currently adapting and what their main needs are to increase their resilience to climate change.
-
-We will produce actionable inferences for key stakeholders and policymakers aimed at improving climate risk mitigation strategies in agricultural work and developing adaptation strategies for workers affected by climate change.
-
-## RESEARCH QUESTIONS
-
-1. How do climate hazards influence the prevalence of occupational health issues, work-related diseases, and slavery-like conditions among agricultural workers in Brazil?
-
-2. What are the most affected groups and the socioeconomic pathways through which climate change impacts labour rights, wages, and occupational safety within the agricultural sector?
-3. What existing interventions aim to address climate risks and indecent working conditions in agriculture?
-4. How do workers in agriculture respond to climate hazards to promote well-being, food security and sustainable practices?
-5. What insights can be drawn from interdisciplinary research to inform policy and practice for enhancing resilience and well-being?
-
-
-In answering these questions, we aim to better understand the impact of the climate/work/health nexus on local populations by explicitly linking geographical locations to specific agricultural commodities. This will identify vulnerable areas where targeted interventions can help to mitigate the effects of climate change. The project’s novel, innovative, and integrated methods, data, and analysis will support these more targeted mitigation and adaptation strategies.
-
-
+## RESEARCH MOTIVATIONS
 
 #### Share this post on social media:
+
 ```{=html}
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
-
 <a class="a2a_button_email a2a_counter"></a>
 <a class="a2a_button_copy_link a2a_counter"></a>
 <a class="a2a_button_linkedin a2a_counter"></a>
-<a class="a2a_button_facebook a2a_counter"></a>
 <a class="a2a_button_bluesky a2a_counter"></a>
-<a class="a2a_button_x a2a_counter"></a>
-<a class="a2a_button_threads a2a_counter"></a>
-<a class="a2a_button_mastodon a2a_counter"></a>
-<a class="a2a_button_whatsapp a2a_counter"></a>
 <a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 ```
-
 :::

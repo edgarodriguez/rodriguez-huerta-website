@@ -16,7 +16,7 @@ library(servr)
 ### Aux code
 quarto_version()
 babelquarto::render_website()
-
+quarto install extension kazuyanagimoto/quarto-awesomecv-typst
 
 # Optionally check URLs in references
 #TODO: expand this to all URLs in website

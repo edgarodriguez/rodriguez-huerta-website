@@ -11,6 +11,10 @@ open-graph: true
 execute:
   echo: false
 comments: false
+adsense:
+  publisher-id: ca-pub-8824987846194517
+filters:
+- adsense
 ---
 
 ```{r}
@@ -24,6 +28,7 @@ library(fontawesome)
 ```
 
 ::: {.column-screen}
+
 :::
 
 
@@ -55,16 +60,10 @@ DATA SCIENCE + SUSTAINABILITY + INDUSTRIAL ECOLOGY + CLIMATE CHANGE
 ```{=html}
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#FFDC02,black">
-
 <a class="a2a_button_email a2a_counter"></a>
 <a class="a2a_button_copy_link a2a_counter"></a>
 <a class="a2a_button_linkedin a2a_counter"></a>
-<a class="a2a_button_facebook a2a_counter"></a>
 <a class="a2a_button_bluesky a2a_counter"></a>
-<a class="a2a_button_x a2a_counter"></a>
-<a class="a2a_button_threads a2a_counter"></a>
-<a class="a2a_button_mastodon a2a_counter"></a>
-<a class="a2a_button_whatsapp a2a_counter"></a>
 <a class="a2a_dd a2a_counter" href="https://www.addtoany.com/share"></a>
 </div>
 <script async src="https://static.addtoany.com/menu/page.js"></script>

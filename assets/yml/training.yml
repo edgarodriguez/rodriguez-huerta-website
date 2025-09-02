@@ -1,0 +1,74 @@
+communicating:
+  title: Research Communication Programme
+  date: Jun 2025
+  description: Research Academy University of Nottingham
+
+transd:
+  title: "MOOC: Partnering for change: Link research to societal challenges"
+  date: Apr 2025
+  description: "Network for Transdisciplinary Research td-net of the Swiss Academies of Arts and Sciences"
+
+# ILO-fishing:
+#  title: "MOOC: Detecting forced labour in commercial fishing"
+#  date: Nov 2024
+#  description: International Labour Organization (16h)
+  
+leadership:
+  title: Stepping into Leadership 2023/24. LMA Development Programmes
+  date: Feb 2024
+  description: Research Academy University of Nottingham
+
+
+tufte:
+  title: "MOOC:  Analysing/Presenting Data/Information"
+  date: Oct 2023
+  description: Edward Tufte Course (8h)
+
+ml:
+  title: "MOOC:  Data Science: Statistics and Machine Learning Specialization"
+  date: Jan 2021
+  description: Coursera Programme (Johns Hopkins University) (133h)
+
+data-science:
+  title: "MOOC:  Specialization in Data Science (R Programming)"
+  date: Oct 2020
+  description: Coursera Programme (Johns Hopkins University) (290h)
+
+spatial:
+  title: "MOOC: Spatial Data Science and Applications"
+  date: Sep 2020
+  description: Coursera Programme (Yonsei University) (24h).
+
+public-health:
+  title: "MOOC: Systems Thinking in Public Health"
+  date: Aug 2020
+  description: Coursera Programme (Johns Hopkins University) (20h)
+
+ecosystem-services:
+  title: "MOOC: Ecosystem Services.- A Method for Sustainable Development"
+  date: Jul 2020
+  description: Coursera Programme (University of Geneva) (24h)
+    
+MuSIASEM:
+  title: "MOOC: Sustainability of Social-Ecological Systems: Nexus among Water, Energy, and Food"
+  date: Jul 2020
+  description: Coursera Programme (Universitat Autònoma de Barcelona) (48h)
+
+# sdg-latam:
+#  title: "MOOC: Sustainable Development Goals for Latin America and Caribbean"
+#  date: May 2020
+#  description: Coursera Programme (Universidad de los Andes, Colombia) (18h)
+
+# writing:
+#  title: "MOOC: Writing in science"
+#  date: Mar 2018
+#  description: Coursera Programme (Stanford University) (40h).
+
+# sap:
+#  title: "Certification SAP All in One Logistics"
+#  date: Sep 2008
+#  description: SAP Madrid, Spain
+
+
+
+

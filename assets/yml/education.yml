@@ -1,0 +1,39 @@
+phd:
+  title: Ph.D. in Sustainability Science
+  location: Barcelona, Spain
+  date: Sep 2015 to Mar 2020
+  description: Universitat Politècnica de Catalunya, Institute for Sustainability Science
+  details:
+    - "Dissertation: Water Societal Metabolism in Yucatan Peninsula, Mexico. Application of Multi-Scale Integrated Analysis of Societal and Ecosystem Metabolism (MuSIASEM)"
+    - Three peer-reviewed publications as first author
+    - Built exploratory tool to analyse effect of climate change in water demand (R, QGIS, Tableau)
+#    - Supervised 3 MSc students at Instituto Tecnológico de Mérida
+
+master_1:
+  title: Master's degree in Sustainability Science and Technology
+  location: Barcelona, Spain
+#  date: Sep 2013 to Jun 2015
+  description: Universitat Politècnica de Catalunya, Institute for Sustainability Science
+  details:
+    - "120 ECTS. Grade: 8.9/10 Rank 2/12"
+    - "MSc thesis: Societal Metabolism in the Energy Sector in Catalunya, applying spatial analysis with QGIS"
+    - Collaborated with multi-cultural and interdisciplinary team
+
+master_2:
+  title: Master's degree in Logistics
+  location: Zaragoza, Spain
+#  date: Sep 2007 to Jul 2008
+  description: Universidad de Zaragoza, Zaragoza Logistics Center
+  details:
+    - "105 ECTS. Grade: 9.1/10"
+    - "MSc thesis: Methodologies for a Sustainability Balanced Scorecard in the Logistics Sector"
+    - "Professional fellowship program in logistics. Training program in multiple companies"
+
+grade:
+  title: Undergraduate degree in Industrial Engineering
+  location: Mérida, México
+#  date: Sep 2002 to Feb 2007
+  description: Instituto Tecnológico de Mérida
+  details:
+    - "Grade: 9.4/10"
+

@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+
+\scriptsize
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+
+<!-- \pagebreak -->
+
+# Selected Invited Talks
+\footnotesize
+
+Conference: II Congreso Internacional en Humanidades Ecológicas"
+  location: Barcelona, Spain
+  date: Jul 2025
+  description: "Decent Work and Workers Health nexus in Brazilian agriculture"
